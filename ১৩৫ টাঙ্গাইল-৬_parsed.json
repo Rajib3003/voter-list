@@ -540,7 +540,7 @@
         "সিংহরাগী স্কক- এ"
       ],
       "male_voters": 1348,
-      "female_voters": 1348,
+      "female_voters": 1346,
       "hijra_voters": 0,
       "total_voters": 2694,
       "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
@@ -603,7 +603,7 @@
       "villages": [
         "টৌবাড়িয়া"
       ],
-      "male_voters": 1824,
+      "male_voters": 1424,
       "female_voters": 1298,
       "hijra_voters": 0,
       "total_voters": 2722,
@@ -620,7 +620,7 @@
         "সিংহরাগী ক্র-বি"
       ],
       "male_voters": 1119,
-      "female_voters": 1299,
+      "female_voters": 1129,
       "hijra_voters": 0,
       "total_voters": 2248,
       "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
@@ -1483,7 +1483,7 @@
         "পং আকুটিয়া"
       ],
       "male_voters": 1255,
-      "female_voters": 1161,
+      "female_voters": 1111,
       "hijra_voters": 0,
       "total_voters": 2366,
       "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
@@ -1636,10 +1636,10 @@
         "তেবাডিয়া",
         "তেবাডিয়া"
       ],
-      "male_voters": 2177,
-      "female_voters": 1,
-      "hijra_voters": 2178,
-      "total_voters": 1,
+      "male_voters": 0,
+      "female_voters": 2177,
+      "hijra_voters": 1,
+      "total_voters": 2178,
       "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
       "upazila": "নাগরপুর",
       "union": "সলিমাবাদ",
@@ -1718,10 +1718,10 @@
         "দপ্তিয়র",
         "জালাই"
       ],
-      "male_voters": 2006,
+      "male_voters": 2096,
       "female_voters": 0,
       "hijra_voters": 0,
-      "total_voters": 2066,
+      "total_voters": 2096,
       "remarks": "পুরুষ ভোটকেন্দ thrজরা-১",
       "upazila": "নাগরপূর",
       "union": "দপ্তিয়র",
@@ -1787,7 +1787,7 @@
       "villages": [
         "বালিয়া বন্দর"
       ],
-      "male_voters": 826,
+      "male_voters": 1826,
       "female_voters": 0,
       "hijra_voters": 0,
       "total_voters": 1826,
@@ -1936,8 +1936,8 @@
       "villages": [
         "বাদেবহালী"
       ],
-      "male_voters": 0,
-      "female_voters": 789,
+      "male_voters": 789,
+      "female_voters": 780,
       "hijra_voters": 0,
       "total_voters": 1569,
       "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
@@ -2137,10 +2137,10 @@
         "বাবনা পাড়া",
         "বাবনা পাড়া"
       ],
-      "male_voters": 2894,
-      "female_voters": 0,
-      "hijra_voters": 2894,
-      "total_voters": 0,
+      "male_voters": 0,
+      "female_voters": 2894,
+      "hijra_voters": 0,
+      "total_voters": 2894,
       "remarks": "",
       "upazila": "নাগরপুর",
       "union": "নাগরপুর",
