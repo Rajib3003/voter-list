@@ -1,0 +1,2815 @@
+{
+  "header": {
+    "registration_no": "ডি এ-১",
+    "date": "২২ অগ্রহায়ণ, ১৪৩০ বঙ্গাব্দ/০৭ ভিসেম্বর, ২০২৩ খ্রিস্টাব্দ",
+    "notification_no": "১৭.০০.০০০০.০২৫.৪৪.০৬২.২৩",
+    "electoral_area": "135 টাঙ্গাইল-6"
+  },
+  "summary": {
+    "upazilas": [
+      {
+        "upazila": "দেলদুয়ার",
+        "unions": 8,
+        "permanent_centers": 58,
+        "temporary_centers": 0,
+        "total_centers": 58,
+        "permanent_booths": 380,
+        "temporary_booths": 18,
+        "total_booths": 398,
+        "male_voters": 92081,
+        "female_voters": 90399,
+        "hijra_voters": 1,
+        "total_voters": 182481
+      },
+      {
+        "upazila": "নাগরপুর",
+        "unions": 12,
+        "permanent_centers": 96,
+        "temporary_centers": 0,
+        "total_centers": 96,
+        "permanent_booths": 501,
+        "temporary_booths": 72,
+        "total_booths": 573,
+        "male_voters": 131090,
+        "female_voters": 128851,
+        "hijra_voters": 4,
+        "total_voters": 259945
+      }
+    ],
+    "grand_total": {}
+  },
+  "voting_centers": [
+    {
+      "serial_no": "1",
+      "name": "সৈয়দ আব্দুল জ্বার সরকারি উচ্চ বিদ্যালয় (দক্ষিণ পার্শ্বের ভবন), দেলদুয়ার।",
+      "center_number": "৭",
+      "villages": [
+        "দেলদুয়ার",
+        "মাদারকোল"
+      ],
+      "male_voters": 3521,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 3521,
+      "remarks": "পুরুষ ভোটকেদ্ব",
+      "upazila": "দেলদুয়ার",
+      "union": "দেলদুয়ার",
+      "line_number": 36
+    },
+    {
+      "serial_no": "2",
+      "name": "সৈয়দ আব্দুল জ্বার সকারি উচ্চ বিদ্যালয় (উত্তর পার্শ্বের ভবন), দেলদুয়ার।",
+      "center_number": "৮",
+      "villages": [
+        "দেলদুয়ার",
+        "মাদারকোল"
+      ],
+      "male_voters": 0,
+      "female_voters": 3544,
+      "hijra_voters": 0,
+      "total_voters": 3544,
+      "remarks": "মহিলা ভোটকেদ্ব",
+      "upazila": "দেলদুয়ার",
+      "union": "দেলদুয়ার",
+      "line_number": 36
+    },
+    {
+      "serial_no": "3",
+      "name": "শাখিয়া বালিকা উচ্চ বিদ্যালয়, দেলদুয়ার।",
+      "center_number": "৬",
+      "villages": [
+        "চরপাড়া",
+        "টরিয়াহোদানা",
+        "টুকনীখোলা",
+        "শানবাড়ী"
+      ],
+      "male_voters": 1268,
+      "female_voters": 1290,
+      "hijra_voters": 0,
+      "total_voters": 2558,
+      "remarks": "পুরুষ ও মহিলা ভোটকেদ্ব",
+      "upazila": "দেলদুয়ার",
+      "union": "দেলদুয়ার",
+      "line_number": 36
+    },
+    {
+      "serial_no": "4",
+      "name": "ডাঃ ফজলুর রহমান খান পাইলট ইন্সটিটিউট, জাংগালিয়া, দেলদুয়ার।",
+      "center_number": "৯",
+      "villages": [
+        "জাংগালিয়া",
+        "তেঘুরী কুতুব",
+        "দুল্লা রামদেব",
+        "সেহড়াতেল"
+      ],
+      "male_voters": 2040,
+      "female_voters": 2064,
+      "hijra_voters": 0,
+      "total_voters": 4104,
+      "remarks": "পুরুষ ও মহিলা ভোটকেদ্ব",
+      "upazila": "দেলদুয়ার",
+      "union": "দেলদুয়ার",
+      "line_number": 36
+    },
+    {
+      "serial_no": "5",
+      "name": "বোয়ালজান সরকারি প্রাথমিক বিদ্যালয়, বোয়ালজান, দেশদুয়ার।",
+      "center_number": "৪",
+      "villages": [
+        "বোয়ালজান",
+        "রূপসী"
+      ],
+      "male_voters": 857,
+      "female_voters": 860,
+      "hijra_voters": 0,
+      "total_voters": 1717,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "দেলদুয়ার",
+      "line_number": 40
+    },
+    {
+      "serial_no": "6",
+      "name": "বরপাখীয়া (উঃ) সরকারি প্রাথমিক বিদ্যালয়, বরপাখীয়া, দেশদুয়ার।",
+      "center_number": "১০",
+      "villages": [
+        "বারপাখীয়া",
+        "কুইচতারা"
+      ],
+      "male_voters": 2228,
+      "female_voters": 2261,
+      "hijra_voters": 0,
+      "total_voters": 4489,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "দেলদুয়ার",
+      "line_number": 40
+    },
+    {
+      "serial_no": "7",
+      "name": "মীরকুমু সরকারি প্রাথমিক বিদ্যালয়, মীরকুমুটি দেশদুয়ার।",
+      "center_number": "৯",
+      "villages": [
+        "কান্দাপাড়া",
+        "মীরকুমুটি",
+        "বেতজা",
+        "ভাবকী"
+      ],
+      "male_voters": 2100,
+      "female_voters": 2110,
+      "hijra_voters": 0,
+      "total_voters": 4210,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "দেলদুয়ার",
+      "line_number": 40
+    },
+    {
+      "serial_no": "8",
+      "name": "নলুয়া সরকারি প্রাথমিক বিদ্যালয়, নলুয়া, দেশদুয়ার।",
+      "center_number": "৮ (অস্থায়ী-২)",
+      "villages": [
+        "জলালিয়া পশ্চিমাংশ",
+        "নলুয়া",
+        "আলসা",
+        "জলালিয়া পূর্বাংশ"
+      ],
+      "male_voters": 1856,
+      "female_voters": 1845,
+      "hijra_voters": 0,
+      "total_voters": 3701,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "দেলদুয়ার",
+      "line_number": 40
+    },
+    {
+      "serial_no": "9",
+      "name": "পাথরাইল বহুমুখী উচ্চ বিদ্যালয় (পশ্চিম পার্শ্বের ভবন), পাথরাইল, দেশদুয়ার।",
+      "center_number": "৭",
+      "villages": [
+        "আড়রা রঘু",
+        "গাদতলা",
+        "পাথরাইল",
+        "চন্দ্রি",
+        "দেওজান"
+      ],
+      "male_voters": 3354,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 3354,
+      "remarks": "পুরুষ ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "দেলদুয়ার",
+      "line_number": 46
+    },
+    {
+      "serial_no": "10",
+      "name": "পাথরাইল বহুমুখী উচ্চ বিন্দ্যালয় (পূর্ব পার্শ্বের ভবন), পাথরাইল, দেশদুয়ার।",
+      "center_number": "৮",
+      "villages": [
+        "আড়রা রঘু",
+        "গাদতলা",
+        "পাথরাইল",
+        "চন্দি",
+        "দেওজান"
+      ],
+      "male_voters": 0,
+      "female_voters": 3310,
+      "hijra_voters": 0,
+      "total_voters": 3310,
+      "remarks": "মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "দেলদুয়ার",
+      "line_number": 46
+    },
+    {
+      "serial_no": "11",
+      "name": "পাথরাইল সরকারি প্রাথমিক বিদ্যালয়, পাথরাইল, দেলদুয়ার।",
+      "center_number": "৬",
+      "villages": [
+        "পাথরাইল"
+      ],
+      "male_voters": 1400,
+      "female_voters": 1355,
+      "hijra_voters": 0,
+      "total_voters": 2755,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "পাথরাইল",
+      "line_number": 50
+    },
+    {
+      "serial_no": "12",
+      "name": "বড়টিয়া চিনাথোলা সরকারি প্রাথমিক বিদ্যালয়, বড়টিয়া, পাথরাইল, দেলদুয়ার।",
+      "center_number": "৯ (অস্থায়ী-২)",
+      "villages": [
+        "চিনা খোলা পূর্বাংশ",
+        "অলোয়া",
+        "আর-অলোয়া",
+        "কুমুরিয়া",
+        "চিনা খোলা পশ্চিমাংশ",
+        "বরটিয়া",
+        "বাদাবাড়ী",
+        "বকুলতলা"
+      ],
+      "male_voters": 2011,
+      "female_voters": 1968,
+      "hijra_voters": 0,
+      "total_voters": 3979,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "পাথরাইল",
+      "line_number": 50
+    },
+    {
+      "serial_no": "13",
+      "name": "মঙ্গলহোড় সরকারি প্রাথমিক বিদ্যালয়, মঙ্গলহোড়, পাথরাইল, দেলদুয়ার।",
+      "center_number": "৯ (অস্থায়ী-২)",
+      "villages": [
+        "দশকিয়া",
+        "পারিজাতপুর",
+        "মঙ্গলহড় দক্ষিণ অংশ",
+        "মঙ্গলহড় উত্তর অংশ"
+      ],
+      "male_voters": 2048,
+      "female_voters": 2048,
+      "hijra_voters": 0,
+      "total_voters": 4096,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "পাথরাইল",
+      "line_number": 50
+    },
+    {
+      "serial_no": "14",
+      "name": "পুটিয়াজানী (উঃ) সরকারি প্রাথমিক বিদ্যালয়, শুককী, পাথরাইল, দেলদুয়ার।",
+      "center_number": "৫",
+      "villages": [
+        "কেজুরী",
+        "শুককী"
+      ],
+      "male_voters": 1218,
+      "female_voters": 1230,
+      "hijra_voters": 0,
+      "total_voters": 2448,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "পাথরাইল",
+      "line_number": 50
+    },
+    {
+      "serial_no": "15",
+      "name": "নলশীধা বালিকা উচ্চ বিদ্যালয়, নলশীধা, পাথরাইল, দেলদুয়ার।",
+      "center_number": "৬",
+      "villages": [
+        "গোপালপুর",
+        "নলশোধা",
+        "বিশ্বপুর"
+      ],
+      "male_voters": 1446,
+      "female_voters": 1378,
+      "hijra_voters": 0,
+      "total_voters": 2824,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "পাথরাইল",
+      "line_number": 50
+    },
+    {
+      "serial_no": "16",
+      "name": "কেজুরী সরকারি প্রাথমিক বিদ্যালয়, কেজুরী, পাথরাইল, দেলদুয়ার।",
+      "center_number": "৬",
+      "villages": [
+        "আকন্দ পাড়া",
+        "নরুন্দা",
+        "পাইক পাড়া"
+      ],
+      "male_voters": 1255,
+      "female_voters": 1284,
+      "hijra_voters": 0,
+      "total_voters": 2539,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "পাথরাইল",
+      "line_number": 50
+    },
+    {
+      "serial_no": "17",
+      "name": "গোয়ারিয়া সরকারি প্রাথমিক বিদ্যালয়, নান্দুয়ার, আটিয়া, দেলদুয়ার।",
+      "center_number": "১১ (অস্থায়ী-২)",
+      "villages": [
+        "নান্দুয়ার",
+        "গোয়ারিয়া"
+      ],
+      "male_voters": 2504,
+      "female_voters": 2367,
+      "hijra_voters": 0,
+      "total_voters": 4871,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "আটিয়া",
+      "line_number": 54
+    },
+    {
+      "serial_no": "18",
+      "name": "মৌশা কাঠালিয়া সরকারি প্রাথমিক বিদ্যালয়, মৌশা কাঠালিয়া, আটিয়া, দেলদুয়ার।",
+      "center_number": "৫",
+      "villages": [
+        "কাঠালিয়া",
+        "শাইলখাই"
+      ],
+      "male_voters": 1046,
+      "female_voters": 1024,
+      "hijra_voters": 0,
+      "total_voters": 2070,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "আটিয়া",
+      "line_number": 54
+    },
+    {
+      "serial_no": "19",
+      "name": "নান্দুয়ার সরকারি প্রাথমিক বিদ্যালয়, নান্দুরিয়া, আটিয়া, দেলদুয়ার।",
+      "center_number": "৬",
+      "villages": [
+        "নান্দুরিয়া"
+      ],
+      "male_voters": 1306,
+      "female_voters": 1284,
+      "hijra_voters": 0,
+      "total_voters": 2590,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "আটিয়া",
+      "line_number": 54
+    },
+    {
+      "serial_no": "20",
+      "name": "হিংগানগর সরকারি প্রাথমিক বিদ্যালয়, হিংগানগর, আটিয়া, দেলদুয়ার।",
+      "center_number": "৬",
+      "villages": [
+        "বিন্যাউরি",
+        "হিংগানগর"
+      ],
+      "male_voters": 1425,
+      "female_voters": 1380,
+      "hijra_voters": 0,
+      "total_voters": 2805,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "আটিয়া",
+      "line_number": 54
+    },
+    {
+      "serial_no": "21",
+      "name": "গজিয়াবাড়ী সরকারি প্রাথমিক বিদ্যালয়, গজিয়াবাড়ী, আটিয়া, দেলদুয়ার।",
+      "center_number": "৭",
+      "villages": [
+        "গড়াসিন",
+        "গজিয়াবাড়ী",
+        "বিন্দুরিয়া"
+      ],
+      "male_voters": 1654,
+      "female_voters": 1689,
+      "hijra_voters": 0,
+      "total_voters": 3343,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "আটিয়া",
+      "line_number": 54
+    },
+    {
+      "serial_no": "22",
+      "name": "গোমজানী সরকারি প্রাথমিক বিদ্যালয়, গোমজানী, আটিয়া, দেলদুয়ার।",
+      "center_number": "৪",
+      "villages": [
+        "গোমজানী",
+        "ভুরভুরিয়া"
+      ],
+      "male_voters": 992,
+      "female_voters": 976,
+      "hijra_voters": 1,
+      "total_voters": 1969,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "আটিয়া",
+      "line_number": 54
+    },
+    {
+      "serial_no": "23",
+      "name": "এম.এ করিম বহুমুখী উচ্চ বিদ্যালয়, পিরোক্তপুর, আটিয়া, দেলদুয়ার।",
+      "center_number": "৭",
+      "villages": [
+        "পিরোক্তপুর",
+        "ঘুনিকিশোর",
+        "মানুষপুর"
+      ],
+      "male_voters": 1517,
+      "female_voters": 1473,
+      "hijra_voters": 0,
+      "total_voters": 2990,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "আটিয়া",
+      "line_number": 54
+    },
+    {
+      "serial_no": "24",
+      "name": "হাজী পাখাল উল্যা সরকারি প্রাথমিক বিদ্যালয়, হিস্ঠানগর বেপারী পাড়া, আটিয়া, দেলদুয়ার।",
+      "center_number": "৪",
+      "villages": [
+        "বারই আটিয়া",
+        "হিস্ঠানগর",
+        "হিস্ঠানগর বড়বাড়ী",
+        "হিস্ঠানগর কেবর্ট পাড়া",
+        "হিস্ঠানগর সাহা পাড়া"
+      ],
+      "male_voters": 909,
+      "female_voters": 889,
+      "hijra_voters": 0,
+      "total_voters": 1798,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "আটিয়া",
+      "line_number": 58
+    },
+    {
+      "serial_no": "25",
+      "name": "শাহানশাহী উচ্চ বিদ্যালয়, চালা আটিয়া, আটিয়া, দেলদুয়ার।",
+      "center_number": "৭",
+      "villages": [
+        "চালা আটিয়া দক্ষিণ",
+        "কসবা আটিয়া",
+        "চালা আটিয়া উত্তর মালত পাড়া"
+      ],
+      "male_voters": 1654,
+      "female_voters": 1720,
+      "hijra_voters": 0,
+      "total_voters": 3374,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "আটিয়া",
+      "line_number": 58
+    },
+    {
+      "serial_no": "26",
+      "name": "এলাসিন তারক যোগেন্দ্র উচ্চ বিদ্যালয়, এলাসিন, দেলদুয়ার।",
+      "center_number": "৮",
+      "villages": [
+        "আপ-এলাসিন",
+        "লক্ষকেণ্ড",
+        "শানবাড়ী",
+        "পাছ এলাসিন",
+        "সাকোই জোরা"
+      ],
+      "male_voters": 4108,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 4108,
+      "remarks": "পুরুষ ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "এলাসিন",
+      "line_number": 58
+    },
+    {
+      "serial_no": "27",
+      "name": "এলাসিন নাছিমুনেনছা বালিকা উচ্চ বিদ্যালয়, এলাসিন, দেলদুয়ার।",
+      "center_number": "১০",
+      "villages": [
+        "আপ-এলাসিন",
+        "লক্ষকেণ্ড",
+        "শানবাড়ী",
+        "পাছ এলাসিন",
+        "সাকোই জোরা"
+      ],
+      "male_voters": 0,
+      "female_voters": 4151,
+      "hijra_voters": 0,
+      "total_voters": 4151,
+      "remarks": "মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "এলাসিন",
+      "line_number": 58
+    },
+    {
+      "serial_no": "28",
+      "name": "সিংহরাগী সরকারি প্রাথমিক বিদ্যালয়, সিংহরাগী (স্কক-এ), এলাসিন, দেলদুয়ার।",
+      "center_number": "৬",
+      "villages": [
+        "সিংহরাগী স্কক- এ"
+      ],
+      "male_voters": 1348,
+      "female_voters": 1348,
+      "hijra_voters": 0,
+      "total_voters": 2694,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "এলাসিন",
+      "line_number": 58
+    },
+    {
+      "serial_no": "29",
+      "name": "মুশুরিয়া সরকারি প্রাথমিক বিদ্যালয়, মুশুরিয়া, এলাসিন, দেলদুয়ার।",
+      "center_number": "৭",
+      "villages": [
+        "মুশুরিয়া"
+      ],
+      "male_voters": 1713,
+      "female_voters": 1631,
+      "hijra_voters": 0,
+      "total_voters": 3344,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "এলাসিন",
+      "line_number": 62
+    },
+    {
+      "serial_no": "30",
+      "name": "বারপাখিয়া (দঃ) সরকারি প্রাথমিক বিদ্যালয়, বরপাখিয়া, এলাসিন, দেলদুয়ার।",
+      "center_number": "৬",
+      "villages": [
+        "গাছকুমুটি"
+      ],
+      "male_voters": 1508,
+      "female_voters": 1452,
+      "hijra_voters": 0,
+      "total_voters": 2960,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "এলাসিন",
+      "line_number": 62
+    },
+    {
+      "serial_no": "31",
+      "name": "আবাদপুর সরকারি প্রাথমিক বিদ্যালয়, আবাদপুর, এলাসিন, দেলদুয়ার।",
+      "center_number": "৭",
+      "villages": [
+        "আরাদপুর"
+      ],
+      "male_voters": 1564,
+      "female_voters": 1558,
+      "hijra_voters": 0,
+      "total_voters": 3122,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "এলাসিন",
+      "line_number": 62
+    },
+    {
+      "serial_no": "32",
+      "name": "দড়িপাড়া সরকারি প্রাথমিক বিদ্যালয়, দড়িপাড়া, এলাসিন, দেলদুয়ার।",
+      "center_number": "৬ (অস্থায়ী-২)",
+      "villages": [
+        "টৌবাড়িয়া"
+      ],
+      "male_voters": 1824,
+      "female_voters": 1298,
+      "hijra_voters": 0,
+      "total_voters": 2722,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "এলাসিন",
+      "line_number": 62
+    },
+    {
+      "serial_no": "33",
+      "name": "সিংহরাগী উত্তর পাড়া সরকারি প্রাথমিক বিদ্যালয়, সিংহরাগী (ক্র-বি), এলাসিন, দেলদুয়ার।",
+      "center_number": "৫ (অস্থায়ী-২)",
+      "villages": [
+        "সিংহরাগী ক্র-বি"
+      ],
+      "male_voters": 1119,
+      "female_voters": 1299,
+      "hijra_voters": 0,
+      "total_voters": 2248,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "এলাসিন",
+      "line_number": 62
+    },
+    {
+      "serial_no": "34",
+      "name": "ফুলতারা সরকারি প্রাথমিক বিদ্যালয়, ফুলতারা, ফাজিলহাটি, দেলদুয়ার।",
+      "center_number": "৫",
+      "villages": [
+        "ফুলতারা"
+      ],
+      "male_voters": 1241,
+      "female_voters": 1171,
+      "hijra_voters": 0,
+      "total_voters": 2412,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "ফাজিলহাটি",
+      "line_number": 62
+    },
+    {
+      "serial_no": "35",
+      "name": "লালহারা সরকারি প্রাথমিক বিদ্যালয়, লালহারা, ফাজিলহাটি, দেলদুয়ার।",
+      "center_number": "৫",
+      "villages": [
+        "মুলি নগর"
+      ],
+      "male_voters": 1159,
+      "female_voters": 1125,
+      "hijra_voters": 0,
+      "total_voters": 2284,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "ফাজিলহাটি",
+      "line_number": 62
+    },
+    {
+      "serial_no": "36",
+      "name": "ফাজিলহাট ইউনিয়ন পরিষদ ভবন, পুটিাজানী, ফাজিলহাটি, দেলদুয়ার।",
+      "center_number": "৮",
+      "villages": [
+        "পুটিা জানী",
+        "কুমারজানী",
+        "দেলুয়াকান্দি"
+      ],
+      "male_voters": 2026,
+      "female_voters": 1880,
+      "hijra_voters": 0,
+      "total_voters": 3906,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "ফাজিলহাটি",
+      "line_number": 66
+    },
+    {
+      "serial_no": "37",
+      "name": "মেরুয়াখোনা সরকারি প্রাথমিক বিদ্যালয়, মেরুয়াখোনা, ফাজিলহাটি, দেলদুয়ার।",
+      "center_number": "৮",
+      "villages": [
+        "গাছ পাড়া",
+        "চরপাড়া",
+        "শাহধারী পাড়া",
+        "মেরুয়াখোনা"
+      ],
+      "male_voters": 1851,
+      "female_voters": 1816,
+      "hijra_voters": 0,
+      "total_voters": 3667,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "ফাজিলহাটি",
+      "line_number": 66
+    },
+    {
+      "serial_no": "38",
+      "name": "কামার নওগী সরকারি প্রাথমিক বিদ্যালয়, কামার নওগী, ফাজিলহাটি, দেলদুয়ার।",
+      "center_number": "৫",
+      "villages": [
+        "গুড়পুড়িয়া",
+        "বটতলী",
+        "মালপাড়া",
+        "সর্দার পাড়া",
+        "সিকদারপাড়া"
+      ],
+      "male_voters": 1166,
+      "female_voters": 1199,
+      "hijra_voters": 0,
+      "total_voters": 2365,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "ফাজিলহাটি",
+      "line_number": 66
+    },
+    {
+      "serial_no": "39",
+      "name": "টোকচানপুর সরকারি প্রাথমিক বিদ্যালয়, টোকচানপুর, ফাজিলহাটি, দেলদুয়ার।",
+      "center_number": "৬",
+      "villages": [
+        "এলাচপুর",
+        "টোকচানপুর"
+      ],
+      "male_voters": 1414,
+      "female_voters": 1358,
+      "hijra_voters": 0,
+      "total_voters": 2772,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "ফাজিলহাটি",
+      "line_number": 66
+    },
+    {
+      "serial_no": "40",
+      "name": "জানমাহুদাবাদ বিদ্যাধাম, জানমাহুদাবাদ, ফাজিলহাটি, দেলদুয়ার।",
+      "center_number": "৪",
+      "villages": [
+        "গোয়াল বাখান",
+        "জানমাহুদাবাদ",
+        "ফাজিলহাটি",
+        "বটতলা"
+      ],
+      "male_voters": 831,
+      "female_voters": 772,
+      "hijra_voters": 0,
+      "total_voters": 1603,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "ফাজিলহাটি",
+      "line_number": 66
+    },
+    {
+      "serial_no": "41",
+      "name": "ভুবাইল সেহড়ীতল সরকারি প্রাথমিক বিদ্যালয়, নাটিয়া পাড়া, ভুবাইল, দেলদুয়ার।",
+      "center_number": "৬ (অস্থায়ী-১)",
+      "villages": [
+        "ইসলামপুর",
+        "নাটিয়া পাড়া",
+        "সেহড়ীতল"
+      ],
+      "male_voters": 1344,
+      "female_voters": 1330,
+      "hijra_voters": 0,
+      "total_voters": 2674,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "দেলদুয়ার",
+      "union": "ডুবাইল",
+      "line_number": 66
+    },
+    {
+      "serial_no": "42",
+      "name": "ভুবাইল জাগরনী সরকারি প্রাথমিক বিদ্যালয়, ভুবাইল, দেলদুয়ার।",
+      "center_number": "৭",
+      "villages": [
+        "ভুবাইল"
+      ],
+      "male_voters": 1726,
+      "female_voters": 1673,
+      "hijra_voters": 0,
+      "total_voters": 3399,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "ডুবাইল",
+      "line_number": 70
+    },
+    {
+      "serial_no": "43",
+      "name": "পড়াইখালী সরকারি প্রাথমিক বিদ্যালয়, পড়াইখালী, ভুবাইল, দেলদুয়ার।",
+      "center_number": "৪",
+      "villages": [
+        "পড়াই খালী"
+      ],
+      "male_voters": 945,
+      "female_voters": 928,
+      "hijra_voters": 0,
+      "total_voters": 1873,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "ডুবাইল",
+      "line_number": 70
+    },
+    {
+      "serial_no": "44",
+      "name": "বলী সুফিয়া ওমর উচ্চ বিদ্যালয়, বলী, ভুবাইল, দেলদুয়ার।",
+      "center_number": "৬",
+      "villages": [
+        "প্রয়াগজানী",
+        "বলী"
+      ],
+      "male_voters": 1511,
+      "female_voters": 1460,
+      "hijra_voters": 0,
+      "total_voters": 2971,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "ডুবাইল",
+      "line_number": 70
+    },
+    {
+      "serial_no": "45",
+      "name": "আরমেইা সরকারি প্রাথমিক বিদ্যালয়, আরমেইা, ভুবাইল, দেলদুয়ার।",
+      "center_number": "৫",
+      "villages": [
+        "আরমেইা",
+        "কেফুলা",
+        "মেইা"
+      ],
+      "male_voters": 1130,
+      "female_voters": 1125,
+      "hijra_voters": 0,
+      "total_voters": 2255,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "ডুবাইল",
+      "line_number": 70
+    },
+    {
+      "serial_no": "46",
+      "name": "বাঘুলী উচ্চ বিদ্যালয়, বাঘুলী, ভুবাইল, দেলদুয়ার।",
+      "center_number": "৭",
+      "villages": [
+        "নলখী",
+        "বাঘুলি",
+        "বারকুড়িয়া",
+        "রজা উরী"
+      ],
+      "male_voters": 1621,
+      "female_voters": 1556,
+      "hijra_voters": 0,
+      "total_voters": 3177,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "ডুবাইল",
+      "line_number": 70
+    },
+    {
+      "serial_no": "47",
+      "name": "ভুবাইল ইউনিয়ন পরিষদ কার্যালয়, প্রয়াগজানী, ভুবাইল, দেলদুয়ার।",
+      "center_number": "৮",
+      "villages": [
+        "কোকাপাখী",
+        "ভাটপাড়া",
+        "সুবর্নতলী"
+      ],
+      "male_voters": 1876,
+      "female_voters": 1879,
+      "hijra_voters": 0,
+      "total_voters": 3755,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "ডুবাইল",
+      "line_number": 70
+    },
+    {
+      "serial_no": "48",
+      "name": "খানকী মহেভা সরকারি প্রাথমিক বিদ্যালয়, খানকী মহেভা, ভুবাইল, দেলদুয়ার।",
+      "center_number": "৫ (অস্থায়ী-১)",
+      "villages": [
+        "খানকী মহেভা",
+        "বেলতলা"
+      ],
+      "male_voters": 1083,
+      "female_voters": 1137,
+      "hijra_voters": 0,
+      "total_voters": 2220,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "ডুবাইল",
+      "line_number": 70
+    },
+    {
+      "serial_no": "49",
+      "name": "লাউহাটি সরকারী প্রাথমিক বিদ্যালয় লাউহাটি, দেশনুয়ার।",
+      "center_number": "৯",
+      "villages": [
+        "লাউ হাটি",
+        "বন্দি",
+        "হেরভ পাড়া",
+        "এলাহার",
+        "পাড়রিয়া",
+        "স্বল্প লাড়গ্ৰাম"
+      ],
+      "male_voters": 4503,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 4503,
+      "remarks": "পুরুষ ভোটকেন্দ্র",
+      "upazila": "দেশনুয়ার",
+      "union": "লাউহাটি",
+      "line_number": 74
+    },
+    {
+      "serial_no": "50",
+      "name": "লাউহাটি এম. আজহার মেমোরিয়াল উচ্চ বিদ্যালয় লাউহাটি, দেশনুয়ার।",
+      "center_number": "১১",
+      "villages": [
+        "লাউ হাটি",
+        "বন্দি",
+        "হেরভ পাড়া",
+        "এলাহার",
+        "পাড়রিয়া",
+        "স্বল্প লাড়গ্ৰাম"
+      ],
+      "male_voters": 0,
+      "female_voters": 4321,
+      "hijra_voters": 0,
+      "total_voters": 4321,
+      "remarks": "মহিলা ভোটকেন্দ্র",
+      "upazila": "দেশনুয়ার",
+      "union": "লাউহাটি",
+      "line_number": 74
+    },
+    {
+      "serial_no": "51",
+      "name": "তারটিয়া কমলাই সরকারি প্রাথমিক বিদ্যালয়, তারটিয়া কমলাই, লাউহাটি, দেশনুয়ার।",
+      "center_number": "৯ (অস্থায়ী-২)",
+      "villages": [
+        "তারটিয়া কমলাই",
+        "পাহাড়পুর"
+      ],
+      "male_voters": 2211,
+      "female_voters": 2114,
+      "hijra_voters": 0,
+      "total_voters": 4325,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেশনুয়ার",
+      "union": "লাউহাটি",
+      "line_number": 74
+    },
+    {
+      "serial_no": "52",
+      "name": "কাতুলি সরকারি প্রাথমিক বিদ্যালয়, কাতুলি, লাউহাটি, দেশনুয়ার।",
+      "center_number": "৯ (অস্থায়ী-২)",
+      "villages": [
+        "কাতুলি",
+        "তীতস্তী"
+      ],
+      "male_voters": 1671,
+      "female_voters": 1595,
+      "hijra_voters": 0,
+      "total_voters": 3266,
+      "remarks": "পুরুষ ও মহিলা ভোতকেন্দ্র",
+      "upazila": "দেশনুয়ার",
+      "union": "লাউহাটি",
+      "line_number": 74
+    },
+    {
+      "serial_no": "53",
+      "name": "শেলকুড়িয়া সরকারি প্রাথমিক বিদ্যালয়, শেলকুড়িয়া, লাউহাটি, দেশনুয়ার।",
+      "center_number": "৫",
+      "villages": [
+        "ভবানী পুর",
+        "শেল কুড়িয়া",
+        "স্বল্পগুনটিয়া"
+      ],
+      "male_voters": 1267,
+      "female_voters": 1176,
+      "hijra_voters": 0,
+      "total_voters": 2443,
+      "remarks": "পুরুষ ও মহিলা ভোতকেন্দ্র",
+      "upazila": "দেশনুয়ার",
+      "union": "লাউহাটি",
+      "line_number": 74
+    },
+    {
+      "serial_no": "54",
+      "name": "দাড়িয়াপুর কায়েম উদ্দিন সরকারি প্রাথমিক বিদ্যালয়, দাড়িয়াপুর, লাউহাটি, দেশনুয়ার।",
+      "center_number": "৬",
+      "villages": [
+        "দারিয়াপুর",
+        "ভেঙ্গুলিয়া",
+        "বাউসাইন",
+        "শশি নাড়া"
+      ],
+      "male_voters": 1380,
+      "female_voters": 1355,
+      "hijra_voters": 0,
+      "total_voters": 2735,
+      "remarks": "পুরুষ ও মহিলা ভোতকেন্দ্র",
+      "upazila": "দেশনুয়ার",
+      "union": "লাউহাটি",
+      "line_number": 74
+    },
+    {
+      "serial_no": "55",
+      "name": "বোরহানুল উলুম আহমাদিয়া ইয়াছিনিয়া ফায়িল মাদরাসা, আলালপুর, দেডিল, দেলদুয়ার।",
+      "center_number": "৮",
+      "villages": [
+        "বাবুপুর",
+        "আলালপুর",
+        "বেবরাইল"
+      ],
+      "male_voters": 1868,
+      "female_voters": 1804,
+      "hijra_voters": 0,
+      "total_voters": 3672,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "দেডলী",
+      "line_number": 78
+    },
+    {
+      "serial_no": "56",
+      "name": "ব্রাক্ষণেখালা সরকারি প্রাথমিক বিদ্যালয়, ব্রাক্ষণেখালা, দেডিল, দেলদুয়ার।",
+      "center_number": "৭",
+      "villages": [
+        "আত্রাব",
+        "নুনকাই",
+        "তেভুয়ী ব্রাক্ষণ খোলা"
+      ],
+      "male_voters": 1742,
+      "female_voters": 1703,
+      "hijra_voters": 0,
+      "total_voters": 3445,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দু",
+      "upazila": "দেলদুয়ার",
+      "union": "দেডলী",
+      "line_number": 78
+    },
+    {
+      "serial_no": "57",
+      "name": "চেডিরিয়া সরকারি প্রাথমিক বিদ্যালয়, চেডিরিয়া, দেডিল, দেলদুয়ার।",
+      "center_number": "৯",
+      "villages": [
+        "আগদেডিল",
+        "পাছ দেডিল",
+        "স্থল বর্ণা",
+        "চেডিরিয়া",
+        "বেবর বেবরাইল"
+      ],
+      "male_voters": 2034,
+      "female_voters": 1963,
+      "hijra_voters": 0,
+      "total_voters": 3997,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "দেলদুয়ার",
+      "union": "দেডলী",
+      "line_number": 78
+    },
+    {
+      "serial_no": "58",
+      "name": "চকটেল সরকারি প্রাথমিক বিদ্যালয়, চকটেল, দেডিল, দেলদুয়ার।",
+      "center_number": "",
+      "villages": [
+        "মাইঠাইল",
+        "চকটেল",
+        "বেবরাইল",
+        "কড়াইল",
+        "স্বল্প বরচিয়া"
+      ],
+      "male_voters": 2088,
+      "female_voters": 2045,
+      "hijra_voters": 0,
+      "total_voters": 4133,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দু",
+      "upazila": "দেলদুয়ার",
+      "union": "দেডলী",
+      "line_number": 78
+    },
+    {
+      "serial_no": "59",
+      "name": "ভাড়রা উমেশ চন্দ্র উচ্চ বিদ্যালয় (১ম ভবন), ভাড়রা।",
+      "center_number": "৬",
+      "villages": [
+        "ভারড়া",
+        "চর ভারড়া",
+        "শাখাইল"
+      ],
+      "male_voters": 2703,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 2703,
+      "remarks": "পুরুষ ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ভারড়া",
+      "line_number": 78
+    },
+    {
+      "serial_no": "60",
+      "name": "ভাড়রা উমেশ চন্ড উচ্চ বিদ্যালয় (পিছনের পাকা ভবন), ভাড়রা।",
+      "center_number": "৬",
+      "villages": [
+        "ভাড়রা",
+        "চর ভাড়রা",
+        "শাখাইল"
+      ],
+      "male_voters": 0,
+      "female_voters": 2548,
+      "hijra_voters": 0,
+      "total_voters": 2548,
+      "remarks": "মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ভারড়া",
+      "line_number": 78
+    },
+    {
+      "serial_no": "61",
+      "name": "পীচতার সরকারি প্রাথমিক বিদ্যালয়, পীচতার।",
+      "center_number": "৯ (অস্থায়ী-১)",
+      "villages": [
+        "পীচতার",
+        "শালিয়ারা",
+        "আড়রা",
+        "উলাভাব"
+      ],
+      "male_voters": 2119,
+      "female_voters": 2003,
+      "hijra_voters": 0,
+      "total_voters": 4122,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দু",
+      "upazila": "নাগরপুর",
+      "union": "ভারড়া",
+      "line_number": 78
+    },
+    {
+      "serial_no": "62",
+      "name": "চৌবাড়ীয়া পচাসারটিয়া সরকারী প্রাথমিক বিদ্যালয়, চৌবাড়ীয়া।",
+      "center_number": "৭ (অস্থায়ী-২)",
+      "villages": [
+        "চৌবাড়ীয়া",
+        "পচাসারটিয়া",
+        "দেওজন সলিল",
+        "সুঠাইন"
+      ],
+      "male_voters": 1541,
+      "female_voters": 1435,
+      "hijra_voters": 0,
+      "total_voters": 2976,
+      "remarks": "পূর্বেষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ভারড়া",
+      "line_number": 82
+    },
+    {
+      "serial_no": "63",
+      "name": "সুবর্ণতলী সরকারী প্রাথমিক বিদ্যালয়, সুবর্ণতলী।",
+      "center_number": "৭ (অস্থায়ী-৩)",
+      "villages": [
+        "ভুমুরিয়া",
+        "সুবর্ণতলী",
+        "মিরকুটিয়া",
+        "রেহাই মিরকুটিয়া",
+        "রংছিয়া",
+        "আদাজন"
+      ],
+      "male_voters": 1544,
+      "female_voters": 1414,
+      "hijra_voters": 0,
+      "total_voters": 2958,
+      "remarks": "পূর্বেষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ভারড়া",
+      "line_number": 82
+    },
+    {
+      "serial_no": "64",
+      "name": "খাষ শাহজানী এম.এ করিম উচ্চ বিদ্যালয়, খাষ শাহজানী।",
+      "center_number": "৮",
+      "villages": [
+        "শাহজানী",
+        "মারমা"
+      ],
+      "male_voters": 1861,
+      "female_voters": 1751,
+      "hijra_voters": 0,
+      "total_voters": 3612,
+      "remarks": "পূর্বেষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "ভারড়া",
+      "line_number": 82
+    },
+    {
+      "serial_no": "65",
+      "name": "আটপাড়া সরকারী প্রাথমিক বিদ্যালয়, আটপাড়া।",
+      "center_number": "৫ (অস্থায়ী-১)",
+      "villages": [
+        "আটপাড়া",
+        "ধলাই"
+      ],
+      "male_voters": 1147,
+      "female_voters": 1157,
+      "hijra_voters": 0,
+      "total_voters": 2304,
+      "remarks": "পূর্বেষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "ভারড়া",
+      "line_number": 82
+    },
+    {
+      "serial_no": "66",
+      "name": "আগদিদুলিয়া সরকারী প্রাথমিক বিদ্যালয় (নতুন ভবন), আগদিদুলিয়া।",
+      "center_number": "৫ (অস্থায়ী-২)",
+      "villages": [
+        "আগদিদুলিয়া",
+        "চরচান্দক",
+        "চান্দক"
+      ],
+      "male_voters": 2342,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 2342,
+      "remarks": "পূর্বেষ ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ভারড়া",
+      "line_number": 82
+    },
+    {
+      "serial_no": "67",
+      "name": "আগদিদুলিয়া সরকারী প্রাথমিক বিদ্যালয় (পূর্বাতন ভবন), আগদিদুলিয়া।",
+      "center_number": "৫ (অস্থায়ী-২)",
+      "villages": [
+        "আগদিদুলিয়া",
+        "চরচান্দক",
+        "চান্দক"
+      ],
+      "male_voters": 0,
+      "female_voters": 2174,
+      "hijra_voters": 0,
+      "total_voters": 2174,
+      "remarks": "মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ভারড়া",
+      "line_number": 82
+    },
+    {
+      "serial_no": "68",
+      "name": "বাটরা সরকারী প্রাথমিক বিদ্যালয়, বাটরা।",
+      "center_number": "৭ (অস্থায়ী-২)",
+      "villages": [
+        "কোকাদাইরা",
+        "বাটরা"
+      ],
+      "male_voters": 1685,
+      "female_voters": 1565,
+      "hijra_voters": 0,
+      "total_voters": 3250,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "সহবতপুর",
+      "line_number": 86
+    },
+    {
+      "serial_no": "69",
+      "name": "কাজীরপাড়ুরিয়া সরকারী প্রাথমিক বিদ্যালয়, কাজিরপাড়ুরিয়া।",
+      "center_number": "৭",
+      "villages": [
+        "কাজিরপাড়ুরিয়া",
+        "পাছইরা",
+        "মাইলজানী",
+        "সারাৎপুর"
+      ],
+      "male_voters": 1534,
+      "female_voters": 1600,
+      "hijra_voters": 1,
+      "total_voters": 3135,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্ৰ হিজরা-১",
+      "upazila": "নাগরপুর",
+      "union": "সহবতপুর",
+      "line_number": 86
+    },
+    {
+      "serial_no": "70",
+      "name": "চেঘুজানী সরকারী প্রাথমিক বিদ্যালয়, চেঘুজানী।",
+      "center_number": "৬",
+      "villages": [
+        "চেঘুজানী",
+        "ঘূণিগজমতি"
+      ],
+      "male_voters": 1482,
+      "female_voters": 1452,
+      "hijra_voters": 0,
+      "total_voters": 2934,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্ৰ",
+      "upazila": "নাগরপুর",
+      "union": "সহবতপুর",
+      "line_number": 86
+    },
+    {
+      "serial_no": "71",
+      "name": "বীর সলিল সরকারী প্রাথমিক বিদ্যালয়, বীরসলিল।",
+      "center_number": "৭ (অস্থায়ী-১)",
+      "villages": [
+        "নলসঙ্গা",
+        "বীরসলিল",
+        "ভাটপাড়া"
+      ],
+      "male_voters": 1666,
+      "female_voters": 1602,
+      "hijra_voters": 0,
+      "total_voters": 3268,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্ৰ",
+      "upazila": "নাগরপুর",
+      "union": "সহবতপুর",
+      "line_number": 86
+    },
+    {
+      "serial_no": "72",
+      "name": "সহবতপুর উচ্চ বিদ্যালয়, সহবতপুর।",
+      "center_number": "৭",
+      "villages": [
+        "ইরা",
+        "সহবতপুর"
+      ],
+      "male_voters": 1705,
+      "female_voters": 1617,
+      "hijra_voters": 0,
+      "total_voters": 3322,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্ৰ",
+      "upazila": "নাগরপুর",
+      "union": "সহবতপুর",
+      "line_number": 86
+    },
+    {
+      "serial_no": "73",
+      "name": "ডাঙ্গা শালিনাপাড়া সরকারী প্রাথমিক বিদ্যালয়, শালিনাপাড়া।",
+      "center_number": "৭",
+      "villages": [
+        "ডাংগা"
+      ],
+      "male_voters": 1703,
+      "female_voters": 1703,
+      "hijra_voters": 0,
+      "total_voters": 3406,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্ৰ",
+      "upazila": "নাগরপুর",
+      "union": "সহবতপুর",
+      "line_number": 86
+    },
+    {
+      "serial_no": "74",
+      "name": "নন্দপাড়া সরকারী প্রাথমিক বিদ্যালয়, নন্দপাড়া।",
+      "center_number": "৮ (অস্থায়ী-৫)",
+      "villages": [
+        "নন্দপাড়া",
+        "নন্দপাড়া",
+        "ঘোনাপাড়া"
+      ],
+      "male_voters": 1882,
+      "female_voters": 1928,
+      "hijra_voters": 0,
+      "total_voters": 3810,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্ৰ",
+      "upazila": "নাগরপুর",
+      "union": "সহবতপুর",
+      "line_number": 86
+    },
+    {
+      "serial_no": "75",
+      "name": "জাংগালিয়া সরকারী প্রাথমিক বিদ্যালয়, জাংগালিয়া।",
+      "center_number": "৭ (অস্থায়ী-৩)",
+      "villages": [
+        "জাংগালিয়া",
+        "খামার খল্যা",
+        "তারাবাড়ী",
+        "পারধল্যা"
+      ],
+      "male_voters": 1699,
+      "female_voters": 1632,
+      "hijra_voters": 0,
+      "total_voters": 3331,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্ৰ",
+      "upazila": "নাগরপুর",
+      "union": "সহবতপুর",
+      "line_number": 86
+    },
+    {
+      "serial_no": "76",
+      "name": "কলিয়া সরকারী প্রাথমিক বিদ্যালয়, কলিয়া।",
+      "center_number": "৭ (অস্থায়ী-৪)",
+      "villages": [
+        "কলিয়া",
+        "ঘিঙরকোল"
+      ],
+      "male_voters": 1519,
+      "female_voters": 1560,
+      "hijra_voters": 0,
+      "total_voters": 3079,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্ৰ",
+      "upazila": "নাগরপুর",
+      "union": "গহরাটা",
+      "line_number": 86
+    },
+    {
+      "serial_no": "77",
+      "name": "মোদ্ধা পাড়িরয়া সরকারী প্রাথমিক বিদ্যালয়, নরদহী।",
+      "center_number": "৪",
+      "villages": [
+        "নরদহী",
+        "ভংগবকুটিয়া",
+        "বিনোদ বকুটিয়া"
+      ],
+      "male_voters": 1023,
+      "female_voters": 981,
+      "hijra_voters": 0,
+      "total_voters": 2004,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "গহরাটা",
+      "line_number": 90
+    },
+    {
+      "serial_no": "78",
+      "name": "ইসলামাবাদ দারুক্ষুয়া আলিম মাদরাসা (সরিয়াজানী), সরিয়াজানী।",
+      "center_number": "৫",
+      "villages": [
+        "কয়ারমারা",
+        "পুল্লী",
+        "সরিয়াজানী"
+      ],
+      "male_voters": 1236,
+      "female_voters": 1194,
+      "hijra_voters": 0,
+      "total_voters": 2430,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "গহরাটা",
+      "line_number": 90
+    },
+    {
+      "serial_no": "79",
+      "name": "বনগ্রাম সরকারী প্রাথমিক বিদ্যালয় (নতুন ভবন), বনগ্রাম।",
+      "center_number": "৪",
+      "villages": [
+        "বনগ্রাম"
+      ],
+      "male_voters": 2068,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 2068,
+      "remarks": "পুরুষ ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "গহরাটা",
+      "line_number": 90
+    },
+    {
+      "serial_no": "80",
+      "name": "বনগ্রাম সরকারী প্রাথমিক বিন্যালয় (পূর্বাতন ভবন), বনগ্রাম।",
+      "center_number": "৪",
+      "villages": [
+        "বনগ্রাম"
+      ],
+      "male_voters": 0,
+      "female_voters": 1992,
+      "hijra_voters": 0,
+      "total_voters": 1992,
+      "remarks": "মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "গহরাটা",
+      "line_number": 90
+    },
+    {
+      "serial_no": "81",
+      "name": "গোপনিয়াপুর সরকারী প্রাথমিক বিদ্যালয়, গোপনিয়াপুর।",
+      "center_number": "৫",
+      "villages": [
+        "গোপনিয়াপুর",
+        "দেণ আকুটিয়া",
+        "স্বল্প আকুটিয়া",
+        "পং আকুটিয়া"
+      ],
+      "male_voters": 1255,
+      "female_voters": 1161,
+      "hijra_voters": 0,
+      "total_voters": 2366,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "গহরাটা",
+      "line_number": 90
+    },
+    {
+      "serial_no": "82",
+      "name": "সিংজোড়া সরকারী প্রাথমিক বিদ্যালয়, সিংজোড়া।",
+      "center_number": "৫",
+      "villages": [
+        "সিংজোড়া"
+      ],
+      "male_voters": 1151,
+      "female_voters": 1069,
+      "hijra_voters": 0,
+      "total_voters": 2220,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "গহরাটা",
+      "line_number": 90
+    },
+    {
+      "serial_no": "83",
+      "name": "ছুনি সরকারী প্রাথমিক বিদ্যালয়, ছুনি।",
+      "center_number": "৫",
+      "villages": [
+        "ভেহালিয়া",
+        "ছুনি",
+        "শ্যামপুর"
+      ],
+      "male_voters": 1264,
+      "female_voters": 1150,
+      "hijra_voters": 0,
+      "total_voters": 2414,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "গহরাটা",
+      "line_number": 90
+    },
+    {
+      "serial_no": "84",
+      "name": "গয়হাটা সরকারী প্রাথমিক বিদ্যালয়, গয়হাটা।",
+      "center_number": "৮",
+      "villages": [
+        "আগত গয়হাটা",
+        "কৈটলা",
+        "আগ আকুটিয়া"
+      ],
+      "male_voters": 1888,
+      "female_voters": 1731,
+      "hijra_voters": 0,
+      "total_voters": 3619,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "গহরাটা",
+      "line_number": 90
+    },
+    {
+      "serial_no": "85",
+      "name": "গয়হাটা শহীদ শামস উদ্দিন বালিকা উচ্চ বিদ্যালয়, গয়হাটা।",
+      "center_number": "৬",
+      "villages": [
+        "গয়হাটা ও নয়াপাড়া",
+        "গয়হাটা",
+        "বলাই নগর"
+      ],
+      "male_voters": 2519,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 2519,
+      "remarks": "পুরুষ ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "গহরাটা",
+      "line_number": 90
+    },
+    {
+      "serial_no": "86",
+      "name": "শহীদ শামস উদ্দিন সরকারী প্রাথমিক বিদ্যালয়, গয়হাটা।",
+      "center_number": "৫",
+      "villages": [
+        "গয়হাটা ও নয়াপাড়া",
+        "গয়হাটা",
+        "বলাই নগর"
+      ],
+      "male_voters": 0,
+      "female_voters": 2432,
+      "hijra_voters": 0,
+      "total_voters": 2432,
+      "remarks": "মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "গহরাটা",
+      "line_number": 90
+    },
+    {
+      "serial_no": "87",
+      "name": "সলিমাবাদ ইউনিয়ন বালিকা উচ্চ বিদ্যালয়, সলিমাবাদ।",
+      "center_number": "৬",
+      "villages": [
+        "সলিমাবাদ"
+      ],
+      "male_voters": 1424,
+      "female_voters": 1470,
+      "hijra_voters": 0,
+      "total_voters": 2894,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "সলিমাবাদ",
+      "line_number": 94
+    },
+    {
+      "serial_no": "88",
+      "name": "সলিমাবাদ হাফিজিয়া মাদরাসা, সলিমাবাদ।",
+      "center_number": "৭",
+      "villages": [
+        "সলিমাবাদ"
+      ],
+      "male_voters": 1550,
+      "female_voters": 1739,
+      "hijra_voters": 0,
+      "total_voters": 3289,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "সলিমাবাদ",
+      "line_number": 94
+    },
+    {
+      "serial_no": "89",
+      "name": "সলিমাবাদ তেবারিয়া ইসলামিয়া উচ্চ বিদ্যালয় (পুরাতন ভবন), তেবারিয়া।",
+      "center_number": "৫",
+      "villages": [
+        "তেবাডিয়া",
+        "তেবাডিয়া"
+      ],
+      "male_voters": 2152,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 2152,
+      "remarks": "পুরুষ ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "সলিমাবাদ",
+      "line_number": 94
+    },
+    {
+      "serial_no": "90",
+      "name": "সলিমাবাদ তেবারিয়া হোসনিয়া উচ্চ বিদ্যালয় (নতুন ভবন), তেবারিয়া।",
+      "center_number": "৫",
+      "villages": [
+        "তেবাডিয়া",
+        "তেবাডিয়া"
+      ],
+      "male_voters": 2177,
+      "female_voters": 1,
+      "hijra_voters": 2178,
+      "total_voters": 1,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "সলিমাবাদ",
+      "line_number": 94
+    },
+    {
+      "serial_no": "91",
+      "name": "ছুনিপাড়া সরকারী প্রাথমিক বিদ্যালয়, ছুনিপাড়া।",
+      "center_number": "৫",
+      "villages": [
+        "ছুনিপাড়া"
+      ],
+      "male_voters": 1015,
+      "female_voters": 1067,
+      "hijra_voters": 0,
+      "total_voters": 2082,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ thrজরা-১",
+      "upazila": "নাগরপুর",
+      "union": "সলিমাবাদ",
+      "line_number": 94
+    },
+    {
+      "serial_no": "92",
+      "name": "ছুনিপাড়া আপুর রশিদ স্কুল এন্ড কলেজ, ছুনিপাড়া।",
+      "center_number": "৬",
+      "villages": [
+        "ছুনিপাড়া"
+      ],
+      "male_voters": 1415,
+      "female_voters": 1507,
+      "hijra_voters": 0,
+      "total_voters": 2922,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ thrজরা-১",
+      "upazila": "নাগরপুর",
+      "union": "সলিমাবাদ",
+      "line_number": 94
+    },
+    {
+      "serial_no": "93",
+      "name": "পাইকশা মাইবাইল সরকারী প্রাথমিক বিদ্যালয়, পাইকশা।",
+      "center_number": "৪",
+      "villages": [
+        "পাইকশা",
+        "মাইবাইল"
+      ],
+      "male_voters": 1019,
+      "female_voters": 945,
+      "hijra_voters": 0,
+      "total_voters": 1964,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ thrজরা-১",
+      "upazila": "নাগরপুর",
+      "union": "সলিমাবাদ",
+      "line_number": 94
+    },
+    {
+      "serial_no": "94",
+      "name": "খাষ ছুনিপাড়া সরকারী প্রাথমিক বিদ্যালয়, খাষ ছুনিপাড়া।",
+      "center_number": "৬",
+      "villages": [
+        "খাষ ছুনিপাড়া"
+      ],
+      "male_voters": 1267,
+      "female_voters": 1274,
+      "hijra_voters": 0,
+      "total_voters": 2541,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ thrজরা-১",
+      "upazila": "নাগরপুর",
+      "union": "সলিমাবাদ",
+      "line_number": 94
+    },
+    {
+      "serial_no": "95",
+      "name": "দপ্তিয়র নজির আলী উচ্চ বিদ্যালয় (নতুন ভবন), দপ্তিয়র।",
+      "center_number": "৫",
+      "villages": [
+        "দপ্তিয়র",
+        "জালাই"
+      ],
+      "male_voters": 2006,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 2066,
+      "remarks": "পুরুষ ভোটকেন্দ thrজরা-১",
+      "upazila": "নাগরপূর",
+      "union": "দপ্তিয়র",
+      "line_number": 94
+    },
+    {
+      "serial_no": "96",
+      "name": "দপ্তিয়র নজির আলী উচ্চ বিদ্যালয় (পুরাতন ভবন), দপ্তিয়র।",
+      "center_number": "৫",
+      "villages": [
+        "দপ্তিয়র",
+        "জালাই"
+      ],
+      "male_voters": 0,
+      "female_voters": 2049,
+      "hijra_voters": 1,
+      "total_voters": 2050,
+      "remarks": "মহিলা ভোটকেন্দ thrজরা-১",
+      "upazila": "নাগরপূর",
+      "union": "দপ্তিয়র",
+      "line_number": 94
+    },
+    {
+      "serial_no": "97",
+      "name": "ফয়েজপুর সরকারী প্রাথমিক বিদ্যালয়, ফয়েজপুর।",
+      "center_number": "৩",
+      "villages": [
+        "হাট কাকনা",
+        "ফয়েজপুর",
+        "বাগ কাটারী"
+      ],
+      "male_voters": 823,
+      "female_voters": 755,
+      "hijra_voters": 0,
+      "total_voters": 1578,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ thrজরা-১",
+      "upazila": "নাগরপূর",
+      "union": "দপ্তিয়র",
+      "line_number": 94
+    },
+    {
+      "serial_no": "98",
+      "name": "কামুটিয়া সরকারী প্রাথমিক বিদ্যালয়, কামুটিয়া।",
+      "center_number": "৪",
+      "villages": [
+        "কামুটিয়া",
+        "মাইবাহিল",
+        "ছিটকী বাড়ী"
+      ],
+      "male_voters": 995,
+      "female_voters": 917,
+      "hijra_voters": 0,
+      "total_voters": 1912,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপূর",
+      "union": "দপ্তিয়র",
+      "line_number": 98
+    },
+    {
+      "serial_no": "99",
+      "name": "সারোটিয়াগাজী সরকারী প্রাথমিক বিদ্যালয়, সারোটিয়াগাজী।",
+      "center_number": "৪",
+      "villages": [
+        "বালিয়া বন্দর"
+      ],
+      "male_voters": 826,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 1826,
+      "remarks": "পুরুষ ভোটকেন্দ্র",
+      "upazila": "নাগরপূর",
+      "union": "দপ্তিয়র",
+      "line_number": 98
+    },
+    {
+      "serial_no": "100",
+      "name": "সারোটিয়াগাজী পাচআড়রা নুরানিয়া হাফিজিয়া মাদ্রাসা, সারোটিয়াগাজী।",
+      "center_number": "৪",
+      "villages": [
+        "বালিয়া বন্দর",
+        "সারোটিয়া গাজী",
+        "পাছ আড়রা",
+        "খুনাইল"
+      ],
+      "male_voters": 0,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 0,
+      "remarks": "মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপূর",
+      "union": "দপ্তিয়র",
+      "line_number": 98
+    },
+    {
+      "serial_no": "101",
+      "name": "কদিম কাকনা দাখিল মাদ্রাসা, কদিম কাকনা।",
+      "center_number": "১০",
+      "villages": [
+        "নিশ্চিন্তপুর",
+        "বাজোয়ারটেক",
+        "কদিম কাকনা"
+      ],
+      "male_voters": 2223,
+      "female_voters": 2111,
+      "hijra_voters": 0,
+      "total_voters": 4334,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপূর",
+      "union": "দপ্তিয়র",
+      "line_number": 98
+    },
+    {
+      "serial_no": "102",
+      "name": "খাষ ভুগোলহাট সরকারী প্রাথমিক বিদ্যালয়, খাষ ভুগোলহাট।",
+      "center_number": "১০",
+      "villages": [
+        "খাষ ভুগোলহাট",
+        "বাদে ভুগোল হাট",
+        "চর আমুরিয়া",
+        "কুমড়াকান্দি",
+        "কান্দা পাড়ুরিয়া"
+      ],
+      "male_voters": 2310,
+      "female_voters": 2134,
+      "hijra_voters": 0,
+      "total_voters": 4444,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপূর",
+      "union": "দপ্তিয়র",
+      "line_number": 98
+    },
+    {
+      "serial_no": "103",
+      "name": "আলহাজ আইনুদ্দিন উচ্চ বিদ্যালয়, পাইকাইল।",
+      "center_number": "৫",
+      "villages": [
+        "খাষ পাইকাল",
+        "রেহাই পাইকেল",
+        "নবদিয়া",
+        "গোটা বাগ",
+        "হাড়িয়া"
+      ],
+      "male_voters": 1131,
+      "female_voters": 1030,
+      "hijra_voters": 0,
+      "total_voters": 2161,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপূর",
+      "union": "দপ্তিয়র",
+      "line_number": 98
+    },
+    {
+      "serial_no": "104",
+      "name": "ট্রৈরী পাড়া সরকারী প্রাথমিক বিদ্যালয়, ট্রৈরী পাড়া।",
+      "center_number": "৬",
+      "villages": [
+        "ট্রৈরী পাড়া",
+        "ভিকন ভাদ্রা",
+        "পং ভাদ্রা"
+      ],
+      "male_voters": 1392,
+      "female_voters": 1469,
+      "hijra_voters": 0,
+      "total_voters": 2861,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ভাদ্রা",
+      "line_number": 102
+    },
+    {
+      "serial_no": "105",
+      "name": "লখিদা সরকারী প্রাথমিক বিদ্যালয়, লখিদা।",
+      "center_number": "৫",
+      "villages": [
+        "লখিদা",
+        "জালালিয়া",
+        "কাশিনারা",
+        "ধলেথাপা",
+        "ইছাইল বলরামপুর"
+      ],
+      "male_voters": 1099,
+      "female_voters": 1095,
+      "hijra_voters": 0,
+      "total_voters": 2194,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ভাদ্রা",
+      "line_number": 102
+    },
+    {
+      "serial_no": "106",
+      "name": "অড়রা কুমেদ উচ্চ বিদ্যালয়, অড়রা কুমেদ।",
+      "center_number": "৪",
+      "villages": [
+        "বেহালীখামার",
+        "অড়রা কুমেদ",
+        "শেওলাইদ"
+      ],
+      "male_voters": 1402,
+      "female_voters": 1418,
+      "hijra_voters": 0,
+      "total_voters": 2820,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ভাদ্রা",
+      "line_number": 102
+    },
+    {
+      "serial_no": "107",
+      "name": "বাদেবহালী সরকারী প্রাথমিক বিদ্যালয়, বাদেবহালী।",
+      "center_number": "৫",
+      "villages": [
+        "বাদেবহালী"
+      ],
+      "male_voters": 0,
+      "female_voters": 789,
+      "hijra_voters": 0,
+      "total_voters": 1569,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ভাদ্রা",
+      "line_number": 102
+    },
+    {
+      "serial_no": "108",
+      "name": "মোদ্ধাবাড়ী আদর্শ সরকারী প্রাথমিক বিদ্যালয়, চাষা ভাদ্রা।",
+      "center_number": "৬",
+      "villages": [
+        "চাষা ভাদ্রা"
+      ],
+      "male_voters": 1146,
+      "female_voters": 1167,
+      "hijra_voters": 0,
+      "total_voters": 2313,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ভাদ্রা",
+      "line_number": 102
+    },
+    {
+      "serial_no": "109",
+      "name": "সেহরাইল সরকারী প্রাথমিক বিদ্যালয়, সেহরাইল।",
+      "center_number": "৬",
+      "villages": [
+        "সেহরাইল",
+        "খাগুরিয়া",
+        "রাকুলী পাড়া",
+        "কাউনেথালা"
+      ],
+      "male_voters": 1476,
+      "female_voters": 1418,
+      "hijra_voters": 0,
+      "total_voters": 2894,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ভাদ্রা",
+      "line_number": 102
+    },
+    {
+      "serial_no": "110",
+      "name": "আটিয়া উলাইল সরকারী প্রাথমিক বিদ্যালয়, আটিয়া উলাইল।",
+      "center_number": "৬ (অস্থায়ী-৪)",
+      "villages": [
+        "আটিয়া উলাইল",
+        "সিংদাইর",
+        "পটল"
+      ],
+      "male_voters": 1366,
+      "female_voters": 1316,
+      "hijra_voters": 0,
+      "total_voters": 2682,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ভাদ্রা",
+      "line_number": 106
+    },
+    {
+      "serial_no": "111",
+      "name": "কোদালিয়া সরকারী প্রাথমিক বিদ্যালয়, কোদালিয়া।",
+      "center_number": "৬ (অস্থায়ী-২)",
+      "villages": [
+        "কোদালিয়া",
+        "বাদিয়াজান",
+        "বেতা"
+      ],
+      "male_voters": 1481,
+      "female_voters": 1384,
+      "hijra_voters": 0,
+      "total_voters": 2865,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "ভাদ্রা",
+      "line_number": 106
+    },
+    {
+      "serial_no": "112",
+      "name": "ভহর পাড়ুরিয়া সরকারী প্রাথমিক বিদ্যালয়, ভহর পাড়ুরিয়া।",
+      "center_number": "৬ (অস্থায়ী-২)",
+      "villages": [
+        "গাংগাইর",
+        "বাদে ধুবড়িয়া",
+        "মাগুরিয়া",
+        "কাচ পাই",
+        "ভহর পাড়ুরিয়া"
+      ],
+      "male_voters": 1300,
+      "female_voters": 1285,
+      "hijra_voters": 0,
+      "total_voters": 2585,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "ধুবড়িয়া",
+      "line_number": 106
+    },
+    {
+      "serial_no": "113",
+      "name": "চরবিষমপুর বেসরকারী প্রাথমিক বিদ্যালয়, চরবিষমপুর।",
+      "center_number": "৪ (অস্থায়ী-২)",
+      "villages": [
+        "চকগদাধর",
+        "চরবিষমপুর",
+        "বিষমপুর"
+      ],
+      "male_voters": 969,
+      "female_voters": 944,
+      "hijra_voters": 0,
+      "total_voters": 1913,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "ধুবড়িয়া",
+      "line_number": 106
+    },
+    {
+      "serial_no": "114",
+      "name": "বলরামপুর সরকারী প্রাথমিক বিদ্যালয়, বলরামপুর।",
+      "center_number": "৩",
+      "villages": [
+        "কৃষ্ণদিয়ারকোল",
+        "বলরামপুর",
+        "বাদে কাকনা"
+      ],
+      "male_voters": 639,
+      "female_voters": 653,
+      "hijra_voters": 0,
+      "total_voters": 1292,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "ধুবড়িয়া",
+      "line_number": 106
+    },
+    {
+      "serial_no": "115",
+      "name": "তিরহা সরকারী প্রাথমিক বিদ্যালয়, তিরহা।",
+      "center_number": "৮ (অস্থায়ী-৪)",
+      "villages": [
+        "সেন মাইঝাইল",
+        "ধুবড়িয়া",
+        "কুষ্টিয়া",
+        "তিরহা"
+      ],
+      "male_voters": 1744,
+      "female_voters": 1659,
+      "hijra_voters": 0,
+      "total_voters": 3403,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "ধুবড়িয়া",
+      "line_number": 106
+    },
+    {
+      "serial_no": "116",
+      "name": "ধুবড়িয়া আলিফ উদ্দিন ফালিল মায়াসা, ধুবড়িয়া।",
+      "center_number": "৮",
+      "villages": [
+        "ধুবড়িয়া",
+        "ধুবড়িয়া মধ্য",
+        "ধুবড়িয়া",
+        "মুসিরচর"
+      ],
+      "male_voters": 1630,
+      "female_voters": 1787,
+      "hijra_voters": 0,
+      "total_voters": 3417,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "ধুবড়িয়া",
+      "line_number": 110
+    },
+    {
+      "serial_no": "117",
+      "name": "যদুনাথ পাইলট স্কুল এন্ড কেলজ (পাকা ভবন), নাগরপুর।",
+      "center_number": "৬",
+      "villages": [
+        "নজিনা বাড়ী",
+        "বাবনা পাড়া",
+        "বাবনা পাড়া"
+      ],
+      "male_voters": 2708,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 2708,
+      "remarks": "পুরুষ ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "নাগরপুর",
+      "line_number": 110
+    },
+    {
+      "serial_no": "118",
+      "name": "যদুনাথ পাইলট স্কুল এন্ড কেলজ (টিনেসড ভবন), নাগরপুর।",
+      "center_number": "৬",
+      "villages": [
+        "নজিনা বাড়ী",
+        "বাবনা পাড়া",
+        "বাবনা পাড়া"
+      ],
+      "male_voters": 2894,
+      "female_voters": 0,
+      "hijra_voters": 2894,
+      "total_voters": 0,
+      "remarks": "",
+      "upazila": "নাগরপুর",
+      "union": "নাগরপুর",
+      "line_number": 110
+    },
+    {
+      "serial_no": "119",
+      "name": "নাগরপুর সরকারী কলেজ (মানবিক ও ব্যবসায় শিক্ষা ভবন), নাগরপুর।",
+      "center_number": "৭",
+      "villages": [
+        "দুয়াজানী",
+        "নাগরপুর"
+      ],
+      "male_voters": 3213,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 3213,
+      "remarks": "পুরুষ ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "নাগরপুর",
+      "line_number": 110
+    },
+    {
+      "serial_no": "120",
+      "name": "নাগরপুর সরকারী কলেজ (বিজ্ঞান ভবন), নাগরপুর।",
+      "center_number": "৭",
+      "villages": [
+        "দুয়াজানী",
+        "নাগরপুর"
+      ],
+      "male_voters": 3271,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 3271,
+      "remarks": "মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "নাগরপুর",
+      "line_number": 110
+    },
+    {
+      "serial_no": "121",
+      "name": "কাঠুরী সরকারী প্রাথমিক বিদ্যালয়, কাঠুরী।",
+      "center_number": "৬",
+      "villages": [
+        "কাঠুরী",
+        "রামচন্দ্রপুর"
+      ],
+      "male_voters": 1291,
+      "female_voters": 1262,
+      "hijra_voters": 0,
+      "total_voters": 2553,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "নাগরপুর",
+      "line_number": 110
+    },
+    {
+      "serial_no": "122",
+      "name": "আলোকদিয়া সরকারী প্রাথমিক বিদ্যালয়, আলোকদিয়া।",
+      "center_number": "৩",
+      "villages": [
+        "আলোকদিয়া",
+        "নগদা"
+      ],
+      "male_voters": 743,
+      "female_voters": 712,
+      "hijra_voters": 0,
+      "total_voters": 1455,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "নাগরপুর",
+      "line_number": 110
+    },
+    {
+      "serial_no": "123",
+      "name": "আন্দিবাড়ী সরকারী প্রাথমিক বিদ্যালয়, আন্দিবাড়ী।",
+      "center_number": "৩",
+      "villages": [
+        "আন্দিবাড়ী"
+      ],
+      "male_voters": 730,
+      "female_voters": 726,
+      "hijra_voters": 0,
+      "total_voters": 1456,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "নাগরপুর",
+      "line_number": 114
+    },
+    {
+      "serial_no": "124",
+      "name": "কাশাদহ সরকারী প্রাথমিক বিদ্যালয়, কাশাদহ।",
+      "center_number": "৫",
+      "villages": [
+        "কাশাদহ"
+      ],
+      "male_voters": 1242,
+      "female_voters": 1225,
+      "hijra_voters": 0,
+      "total_voters": 2467,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "নাগরপুর",
+      "line_number": 114
+    },
+    {
+      "serial_no": "125",
+      "name": "মেঘনা সরকারী প্রাথমিক বিদ্যালয়, পাননা।",
+      "center_number": "৫",
+      "villages": [
+        "পাননা"
+      ],
+      "male_voters": 1081,
+      "female_voters": 1093,
+      "hijra_voters": 0,
+      "total_voters": 2174,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "নাগরপুর",
+      "line_number": 114
+    },
+    {
+      "serial_no": "126",
+      "name": "পাইশানা সরকারী প্রাথমিক বিদ্যালয়, পাইশানা।",
+      "center_number": "৩",
+      "villages": [
+        "পাইশানা"
+      ],
+      "male_voters": 740,
+      "female_voters": 727,
+      "hijra_voters": 0,
+      "total_voters": 1467,
+      "remarks": "পূরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "নাগরপুর",
+      "line_number": 114
+    },
+    {
+      "serial_no": "127",
+      "name": "সুদাম পাড়া সরকারী প্রাথমিক বিদ্যালয়, সুদাম পাড়া।",
+      "center_number": "৬ (অস্থায়ী-১)",
+      "villages": [
+        "সুদাম পাড়া"
+      ],
+      "male_voters": 1486,
+      "female_voters": 1441,
+      "hijra_voters": 0,
+      "total_voters": 2927,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "মামুদনগর",
+      "line_number": 114
+    },
+    {
+      "serial_no": "128",
+      "name": "বাহের বাড়ী সরকারী প্রাথমিক বিদ্যালয়, বাহের বাড়ী।",
+      "center_number": "৬",
+      "villages": [
+        "বাউসাইন",
+        "বাহেরবাড়ী"
+      ],
+      "male_voters": 1274,
+      "female_voters": 1211,
+      "hijra_voters": 0,
+      "total_voters": 2485,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "মামুদনগর",
+      "line_number": 114
+    },
+    {
+      "serial_no": "129",
+      "name": "মামুদনগর মেডল সরকারী প্রাথমিক বিদ্যালয় (পাকা ভবন), মামুদনগর।",
+      "center_number": "৬",
+      "villages": [
+        "চারাবাগ",
+        "মামুদনগর উত্তর",
+        "শ্রী বড়টিয়া"
+      ],
+      "male_voters": 2635,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 2635,
+      "remarks": "পুরুষ ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "মামুদনগর",
+      "line_number": 114
+    },
+    {
+      "serial_no": "130",
+      "name": "মামুদনগর মেডল সরকারী প্রাথমিক বিদ্যালয় (টিনেসড ভবন), মামুদনগর।",
+      "center_number": "৬",
+      "villages": [
+        "চারাবাগ",
+        "মামুদ নগর উত্তর",
+        "শ্রী বড়টিয়া"
+      ],
+      "male_voters": 0,
+      "female_voters": 2627,
+      "hijra_voters": 0,
+      "total_voters": 2627,
+      "remarks": "মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "মামুদনগর",
+      "line_number": 114
+    },
+    {
+      "serial_no": "131",
+      "name": "মামুদনগর উচ্চ বিদ্যালয়, মামুদনগর।",
+      "center_number": "৮",
+      "villages": [
+        "মামুদনগর দক্ষিণ"
+      ],
+      "male_voters": 1775,
+      "female_voters": 1768,
+      "hijra_voters": 0,
+      "total_voters": 3543,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "মামুদনগর",
+      "line_number": 114
+    },
+    {
+      "serial_no": "132",
+      "name": "কলমাইন সরকারী প্রাথমিক বিদ্যালয়, কলমাইন।",
+      "center_number": "৮ (অস্থায়ী-২)",
+      "villages": [
+        "কাউয়াফোলা",
+        "কলমাইন",
+        "কেদারপুর"
+      ],
+      "male_voters": 1897,
+      "female_voters": 1839,
+      "hijra_voters": 0,
+      "total_voters": 3736,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "মামুদনগর",
+      "line_number": 114
+    },
+    {
+      "serial_no": "133",
+      "name": "শুনসী সরকারী প্রাথমিক বিদ্যালয়, শুনসী।",
+      "center_number": "৬",
+      "villages": [
+        "শুনসী"
+      ],
+      "male_voters": 1371,
+      "female_voters": 1349,
+      "hijra_voters": 0,
+      "total_voters": 2720,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "মামুদনগর",
+      "line_number": 118
+    },
+    {
+      "serial_no": "134",
+      "name": "ভাতশালা হিলফুল ফিফল দাখিল মাদ্রাসা, ভাতশালা।",
+      "center_number": "৬",
+      "villages": [
+        "পোস্টকামারী",
+        "ভাতশালা"
+      ],
+      "male_voters": 1274,
+      "female_voters": 1319,
+      "hijra_voters": 0,
+      "total_voters": 2593,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "মামুদনগর",
+      "line_number": 118
+    },
+    {
+      "serial_no": "135",
+      "name": "বাড়ীগ্রাম দঃ পাড়া সরকারী প্রাথমিক বিদ্যালয়, বাড়ীগ্রাম।",
+      "center_number": "৮",
+      "villages": [
+        "ধুকুটিয়া",
+        "পাকুটিয়া",
+        "বাড়ীগ্রাম",
+        "বেলটেল"
+      ],
+      "male_voters": 1859,
+      "female_voters": 1851,
+      "hijra_voters": 0,
+      "total_voters": 3710,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "মামুদনগর",
+      "line_number": 118
+    },
+    {
+      "serial_no": "136",
+      "name": "সমবায় উচ্চ বিদ্যালয়, মেঘনা।",
+      "center_number": "৭",
+      "villages": [
+        "গোপালপুর",
+        "বনগ্রাম",
+        "ভাড়ারিয়া",
+        "মেঘনা"
+      ],
+      "male_voters": 1673,
+      "female_voters": 1631,
+      "hijra_voters": 0,
+      "total_voters": 3304,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "মামুদনগর",
+      "line_number": 118
+    },
+    {
+      "serial_no": "137",
+      "name": "জয়ভোগ সরকারী প্রাথমিক বিদ্যালয়, জয়ভোগ।",
+      "center_number": "৭",
+      "villages": [
+        "কোকুকুড়িয়া",
+        "চামটা",
+        "জয়ভোগ",
+        "মিজাপুর"
+      ],
+      "male_voters": 1578,
+      "female_voters": 1591,
+      "hijra_voters": 0,
+      "total_voters": 3169,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "মামুদনগর",
+      "line_number": 118
+    },
+    {
+      "serial_no": "138",
+      "name": "লাড়গ্রাম সরকারী প্রাথমিক বিদ্যালয়, লাড়গ্রাম।",
+      "center_number": "৭",
+      "villages": [
+        "দেইলা",
+        "পং বাইজাড়া",
+        "লাড়গ্রাম",
+        "ঘুনি"
+      ],
+      "male_voters": 1539,
+      "female_voters": 1434,
+      "hijra_voters": 0,
+      "total_voters": 2973,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "মোকনা",
+      "line_number": 118
+    },
+    {
+      "serial_no": "139",
+      "name": "বড়িয়াজানী উচ্চ বিদ্যালয়, বড়িয়াজানী।",
+      "center_number": "৭",
+      "villages": [
+        "পোস্টবন্দপুর",
+        "চানপাড়া",
+        "পারবাইজাড়া",
+        "বড়িয়াজানী",
+        "বানিয়াখাড়া"
+      ],
+      "male_voters": 1493,
+      "female_voters": 1492,
+      "hijra_voters": 0,
+      "total_voters": 2985,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "মোকনা",
+      "line_number": 118
+    },
+    {
+      "serial_no": "140",
+      "name": "জগতলা সরকারী প্রাথমিক বিদ্যালয়, জগতলা।",
+      "center_number": "৪",
+      "villages": [
+        "জগতলা",
+        "পং বড়িয়া"
+      ],
+      "male_voters": 985,
+      "female_voters": 925,
+      "hijra_voters": 0,
+      "total_voters": 1910,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "মোকনা",
+      "line_number": 118
+    },
+    {
+      "serial_no": "141",
+      "name": "কোনড়া সরকারী প্রাথমিক বিদ্যালয়, কোনড়া।",
+      "center_number": "৮",
+      "villages": [
+        "কোনড়া",
+        "ডাকাতমারা"
+      ],
+      "male_voters": 1601,
+      "female_voters": 1615,
+      "hijra_voters": 0,
+      "total_voters": 3216,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "মোকনা",
+      "line_number": 122
+    },
+    {
+      "serial_no": "142",
+      "name": "গাজুটিয়া সরকারী প্রাথমিক বিদ্যালয়, গাজুটিয়া।",
+      "center_number": "৬",
+      "villages": [
+        "গাজুটিয়া",
+        "নাটাং"
+      ],
+      "male_voters": 1359,
+      "female_voters": 1392,
+      "hijra_voters": 0,
+      "total_voters": 2751,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "মোকনা",
+      "line_number": 122
+    },
+    {
+      "serial_no": "143",
+      "name": "এম বোরহান উদ্দিন উচ্চ বিদ্যালয়, আগদিদুলিয়া।",
+      "center_number": "৬",
+      "villages": [
+        "আগদিদুলিয়া",
+        "বন্ধ জলসুকা"
+      ],
+      "male_voters": 1286,
+      "female_voters": 1295,
+      "hijra_voters": 0,
+      "total_voters": 2581,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "মোকনা",
+      "line_number": 122
+    },
+    {
+      "serial_no": "144",
+      "name": "গৃহলী সরকারী প্রাথমিক বিদ্যালয়, গৃহলী।",
+      "center_number": "৬",
+      "villages": [
+        "মোকনা"
+      ],
+      "male_voters": 1362,
+      "female_voters": 1307,
+      "hijra_voters": 0,
+      "total_voters": 2669,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "মোকনা",
+      "line_number": 122
+    },
+    {
+      "serial_no": "145",
+      "name": "কাজীবাড়ী সরকারী প্রাথমিক বিদ্যালয়, করটিয়া।",
+      "center_number": "৪",
+      "villages": [
+        "করটিয়া"
+      ],
+      "male_voters": 820,
+      "female_voters": 783,
+      "hijra_voters": 0,
+      "total_voters": 1603,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "মোকনা",
+      "line_number": 122
+    },
+    {
+      "serial_no": "146",
+      "name": "বাগজান সরকারী প্রাথমিক বিদ্যালয়, বাগজান।",
+      "center_number": "৮",
+      "villages": [
+        "পুষ্টিয়া",
+        "রৌহাডাংগা",
+        "ঘাগড়া",
+        "বাগজান"
+      ],
+      "male_voters": 1892,
+      "female_voters": 1809,
+      "hijra_voters": 0,
+      "total_voters": 3701,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "পাকুটিয়া",
+      "line_number": 122
+    },
+    {
+      "serial_no": "147",
+      "name": "পাকুটিয়া বিসিআরজি উচ্চ বিদ্যালয়, পাকুটিয়া।",
+      "center_number": "৬",
+      "villages": [
+        "পাইকপাড়া",
+        "পাকুটিয়া",
+        "হারাইপাড়া",
+        "বাস্তবোলা"
+      ],
+      "male_voters": 1392,
+      "female_voters": 1448,
+      "hijra_voters": 0,
+      "total_voters": 2840,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "পাকুটিয়া",
+      "line_number": 122
+    },
+    {
+      "serial_no": "148",
+      "name": "আফছার মেমারিয়াল উচ্চ বিদ্যালয়, আগতারাইল।",
+      "center_number": "৬",
+      "villages": [
+        "আউটপাড়া",
+        "পৌলসুরা",
+        "আগতারাইল",
+        "পাছ তারাইল"
+      ],
+      "male_voters": 1495,
+      "female_voters": 1491,
+      "hijra_voters": 0,
+      "total_voters": 2986,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "পাকুটিয়া",
+      "line_number": 122
+    },
+    {
+      "serial_no": "149",
+      "name": "রাখুরা সরকারী প্রাথমিক বিদ্যালয়, রাওতারা।",
+      "center_number": "৯ (অস্থায়ী-২)",
+      "villages": [
+        "রাওতারা",
+        "কান্দাপাড়া",
+        "মাবুলিয়া"
+      ],
+      "male_voters": 1929,
+      "female_voters": 1990,
+      "hijra_voters": 1,
+      "total_voters": 3920,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র হিজরা-১",
+      "upazila": "নাগরপুর",
+      "union": "পাকুটিয়া",
+      "line_number": 126
+    },
+    {
+      "serial_no": "150",
+      "name": "সেওয়াইল সরকারী প্রাথমিক বিদ্যালয়, সেওয়াইল।",
+      "center_number": "৮",
+      "villages": [
+        "সেওয়াইল",
+        "মানড়া"
+      ],
+      "male_voters": 1905,
+      "female_voters": 1908,
+      "hijra_voters": 0,
+      "total_voters": 3813,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "পাকুটিয়া",
+      "line_number": 126
+    },
+    {
+      "serial_no": "151",
+      "name": "নবগ্রাম সরকারী প্রাথমিক বিদ্যালয়, নবগ্রাম।",
+      "center_number": "৭ (অস্থায়ী-৩)",
+      "villages": [
+        "নবগ্রাম",
+        "সাতগাছা",
+        "মুলিরয়া",
+        "বীরবড়টিয়া"
+      ],
+      "male_voters": 1489,
+      "female_voters": 1520,
+      "hijra_voters": 0,
+      "total_voters": 3009,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "বেকড়া",
+      "line_number": 126
+    },
+    {
+      "serial_no": "152",
+      "name": "চরবেকড়া সরকারী প্রাথমিক বিদ্যালয় (দোতলা), বেকড়া।",
+      "center_number": "৫ (অস্থায়ী-২)",
+      "villages": [
+        "বেকড়া",
+        "বেকড়া",
+        "বেকড়া",
+        "কোনাবাড়ী"
+      ],
+      "male_voters": 2289,
+      "female_voters": 0,
+      "hijra_voters": 0,
+      "total_voters": 2289,
+      "remarks": "পুরুষ ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "বেকড়া",
+      "line_number": 126
+    },
+    {
+      "serial_no": "153",
+      "name": "চরবেকড়া সরকারী প্রাথমিক বিদ্যালয় (নীচতলা), বেকড়া।",
+      "center_number": "৫ (অস্থায়ী-২)",
+      "villages": [
+        "বেকড়া",
+        "বেকড়া",
+        "বেকড়া",
+        "কোনাবাড়ী"
+      ],
+      "male_voters": 0,
+      "female_voters": 2343,
+      "hijra_voters": 0,
+      "total_voters": 2343,
+      "remarks": "মহিলা ভোটকেন্দ্র",
+      "upazila": "নাগরপুর",
+      "union": "বেকড়া",
+      "line_number": 126
+    },
+    {
+      "serial_no": "154",
+      "name": "বারাপুয়া সরকারী প্রাথমিক বিদ্যালয়, বারাপুয়া।",
+      "center_number": "৭",
+      "villages": [
+        "ভালকুটিয়া",
+        "বারাপুয়া",
+        "বারাপুয়া"
+      ],
+      "male_voters": 1469,
+      "female_voters": 1460,
+      "hijra_voters": 0,
+      "total_voters": 2929,
+      "remarks": "পুরুষ ও মহিলা ভোটকেন্দ",
+      "upazila": "নাগরপুর",
+      "union": "বেকড়া",
+      "line_number": 126
+    }
+  ],
+  "total_centers": 154,
+  "sanity_check": {
+    "valid": false,
+    "issues": [
+      "Center 14 (পুটিয়াজানী (উঃ) সরকারি প্রাথমিক বিদ্যালয়, শুককী,...): Voter count mismatch. M(1208) + F(1230) + H(0) = 2438, but total shows 2448 [Line 50]",
+      "Center 28 (সিংহরাগী সরকারি প্রাথমিক বিদ্যালয়, সিংহরাগী (স্কক...): Voter count mismatch. M(1348) + F(1348) + H(0) = 2696, but total shows 2694 [Line 58]",
+      "Center 32 (দড়িপাড়া সরকারি প্রাথমিক বিদ্যালয়, দড়িপাড়া, এল...): Voter count mismatch. M(1824) + F(1298) + H(0) = 3122, but total shows 2722 [Line 62]",
+      "Center 33 (সিংহরাগী উত্তর পাড়া সরকারি প্রাথমিক বিদ্যালয়, সি...): Voter count mismatch. M(1119) + F(1299) + H(0) = 2418, but total shows 2248 [Line 62]",
+      "Center 81 (গোপনিয়াপুর সরকারী প্রাথমিক বিদ্যালয়, গোপনিয়াপুর...): Voter count mismatch. M(1255) + F(1161) + H(0) = 2416, but total shows 2366 [Line 90]",
+      "Center 90 (সলিমাবাদ তেবারিয়া হোসনিয়া উচ্চ বিদ্যালয় (নতুন ভ...): Voter count mismatch. M(2177) + F(1) + H(2178) = 4356, but total shows 1 [Line 94]",
+      "Center 95 (দপ্তিয়র নজির আলী উচ্চ বিদ্যালয় (নতুন ভবন), দপ্তি...): Voter count mismatch. M(2006) + F(0) + H(0) = 2006, but total shows 2066 [Line 94]",
+      "Center 99 (সারোটিয়াগাজী সরকারী প্রাথমিক বিদ্যালয়, সারোটিয়া...): Voter count mismatch. M(826) + F(0) + H(0) = 826, but total shows 1826 [Line 98]",
+      "Center 107 (বাদেবহালী সরকারী প্রাথমিক বিদ্যালয়, বাদেবহালী।...): Voter count mismatch. M(0) + F(789) + H(0) = 789, but total shows 1569 [Line 102]",
+      "Center 118 (যদুনাথ পাইলট স্কুল এন্ড কেলজ (টিনেসড ভবন), নাগরপুর...): Voter count mismatch. M(2894) + F(0) + H(2894) = 5788, but total shows 0 [Line 110]",
+      "Male voter count mismatch: Centers total=230,024, Summary=223,171",
+      "Female voter count mismatch: Centers total=209,389, Summary=219,250",
+      "Hijra voter count mismatch: Centers total=5076, Summary=5",
+      "Total voter count mismatch: Centers total=435,574, Summary=442,426"
+    ],
+    "warnings": [],
+    "stats": {
+      "total_centers_checked": 154,
+      "voter_count_mismatches": 10,
+      "missing_fields": 0,
+      "invalid_serial_numbers": 0,
+      "unreasonable_voter_counts": 0
+    },
+    "summary": {
+      "total_centers": 154,
+      "centers_with_issues": 10,
+      "total_issues": 14,
+      "total_warnings": 0
+    }
+  }
+}

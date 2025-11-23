@@ -1,0 +1,1750 @@
+{
+  "header": {
+    "registration_no": "ডএ-১",
+    "date": "২০ অগ্রহায়ণ, ১৪৩০ বঙ্গাব্দ/০৫ ডিসেম্বর, ২০২৩ দ্বilling",
+    "notification_no": "17.00.0000.025.44.043.23-417",
+    "electoral_area": ""
+  },
+  "summary": null,
+  "voting_centers": [
+    {
+      "serial_no": "1",
+      "name": "সুকাশ সরকারী প্রাথমিক বিদ্যালয়, সুকাশ",
+      "center_number": "৫",
+      "male_voters": 1197,
+      "female_voters": 0,
+      "hijra_voters": 2378,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা ক্ষেত্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 44,
+      "villages": [
+        "অর্জুন মাদলবাড়ীয়া",
+        "শ্রীকুন্ডা",
+        "সুকাশ"
+      ]
+    },
+    {
+      "serial_no": "2",
+      "name": "ছিলামপুর সরকারী প্রাথমিক বিদ্যালয়, ছিলামপুর।",
+      "center_number": "৫ (অস্থায়ী-১)",
+      "male_voters": 1143,
+      "female_voters": 1158,
+      "hijra_voters": 0,
+      "total_voters": 2301,
+      "remarks": "৪০১",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 44,
+      "villages": [
+        "হাসপুর্করিয়া",
+        "শতকুড়ি",
+        "আমুদাকুড়ি",
+        "ছিলামপুর",
+        "বিশ্বাসপুর",
+        "কাছুটিয়া"
+      ]
+    },
+    {
+      "serial_no": "3",
+      "name": "বোয়ালিয়া সরকারী প্রাথমিক বিদ্যালয়, বোয়ালিয়া।",
+      "center_number": "৮",
+      "male_voters": 1715,
+      "female_voters": 1657,
+      "hijra_voters": 0,
+      "total_voters": 3372,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 48,
+      "villages": [
+        "পূর্ব কালাইকুড়ি",
+        "মাদলবাড়ীয়া",
+        "খরচগাড়ী",
+        "চক মশিনা",
+        "পাঁচপাকিয়া",
+        "বেলগাড়ী",
+        "বোয়ালিয়া",
+        "মশিনা"
+      ]
+    },
+    {
+      "serial_no": "4",
+      "name": "কুড়িপাকিয়া আধিয়ুল উলুম ফাজিল (ডিগ্রি) মাদ্রাসা, কুড়িপাকিয়া ।",
+      "center_number": "৪",
+      "male_voters": 913,
+      "female_voters": 896,
+      "hijra_voters": 0,
+      "total_voters": 1809,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 48,
+      "villages": [
+        "কুড়িপাকিয়া",
+        "খাপকুড়াইল",
+        "সেরাংগবাড়ীয়া"
+      ]
+    },
+    {
+      "serial_no": "5",
+      "name": "বামিহাল দ্বি-মুখী উচ্চ বিদ্যালয়, বামিহাল।",
+      "center_number": "৭",
+      "male_voters": 1560,
+      "female_voters": 1541,
+      "hijra_voters": 0,
+      "total_voters": 3101,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 48,
+      "villages": [
+        "জিয়াপাড়া",
+        "বামিহাল",
+        "ভুইয়া মশিনা",
+        "মৌগ্রাম"
+      ]
+    },
+    {
+      "serial_no": "12",
+      "name": "বেভাবাড়ী সরকারী প্রাথমিক বিদ্যালয়, বেভাবাড়ী ।",
+      "center_number": "৪",
+      "male_voters": 842,
+      "female_voters": 0,
+      "hijra_voters": 1708,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 52,
+      "villages": [
+        "কাউয়াটিকরী",
+        "বিনা বেভাবাড়ী",
+        "পাড়িল",
+        "বেভাবাড়ী"
+      ]
+    },
+    {
+      "serial_no": "13",
+      "name": "বড় আদিমপুর সরকারী প্রাথমিক বিদ্যালয়, বড় আদিমপুর।",
+      "center_number": "৬",
+      "male_voters": 1314,
+      "female_voters": 0,
+      "hijra_voters": 2681,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্ন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 52,
+      "villages": [
+        "চক আদিত্য",
+        "ছোট বাঁশবাড়ীয়া",
+        "বড় আদিমপুর",
+        "মাধা"
+      ]
+    },
+    {
+      "serial_no": "14",
+      "name": "বিয়াশ দ্বি-মুখী উচ্চ বিদ্যালয়, বিয়াশ।",
+      "center_number": "৯",
+      "male_voters": 2126,
+      "female_voters": 0,
+      "hijra_voters": 4297,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্ন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 52,
+      "villages": [
+        "আয়েশ",
+        "জোত বিয়াশ",
+        "ইছলবাড়ীয়া",
+        "পাঁচপাকিয়া",
+        "লালুয়া"
+      ]
+    },
+    {
+      "serial_no": "15",
+      "name": "সরিষাবাড়ী সরকারী প্রাথমিক বিদ্যালয়, সরিষাবাড়ী।",
+      "center_number": "৪",
+      "male_voters": 1058,
+      "female_voters": 987,
+      "hijra_voters": 0,
+      "total_voters": 2045,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 56,
+      "villages": [
+        "গাড়াবাড়ী",
+        "ছোট খোলাবাড়ীয়া",
+        "চৈংগা পাকুরিয়া",
+        "সরিষাবাড়ী"
+      ]
+    },
+    {
+      "serial_no": "16",
+      "name": "কেডালা সরকারী প্রাথমিক বিদ্যালয়, কেডালা।",
+      "center_number": "৫",
+      "male_voters": 1176,
+      "female_voters": 1164,
+      "hijra_voters": 0,
+      "total_voters": 2340,
+      "remarks": "৪৭১",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 56,
+      "villages": [
+        "কেডালা",
+        "পিপুলশন",
+        "হাতিগাড়া"
+      ]
+    },
+    {
+      "serial_no": "17",
+      "name": "ফীরপোতা ও সিংড়া যদুনাথপুর সরকারী প্রাথমিক বিদ্যালয়।",
+      "center_number": "৪",
+      "male_voters": 1716,
+      "female_voters": 1724,
+      "hijra_voters": 0,
+      "total_voters": 3440,
+      "remarks": "পুরুষ ও মহিলা কেন্দর",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 56,
+      "villages": [
+        "ফিরপোতা",
+        "সিংড়া যদুনাথপুর"
+      ]
+    },
+    {
+      "serial_no": "18",
+      "name": "বড়গীও সরকারী প্রাথমিক বিদ্যালয়, বড়গীও।",
+      "center_number": "৬",
+      "male_voters": 2972,
+      "female_voters": 2870,
+      "hijra_voters": 0,
+      "total_voters": 5842,
+      "remarks": "পুরুষ ও মহিলা কেন্দর",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 56,
+      "villages": [
+        "বড়গীও",
+        "রঘুকদমা",
+        "হাতিয়ানদিয়া"
+      ]
+    },
+    {
+      "serial_no": "21",
+      "name": "পাকুড়িয়া সরকারী প্রাথমিক বিদ্যালয়, পাকুড়িয়া।",
+      "center_number": "৮ (অস্থায়ী-১)",
+      "male_voters": 1288,
+      "female_voters": 1169,
+      "hijra_voters": 0,
+      "total_voters": 2457,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 62,
+      "villages": [
+        "পশ্চিম কালাইকুড়ি"
+      ]
+    },
+    {
+      "serial_no": "24",
+      "name": "শালমারা সরকারী প্রাথমিক বিদ্যালয়, শালমারা।",
+      "center_number": "৫",
+      "male_voters": 1210,
+      "female_voters": 1059,
+      "hijra_voters": 0,
+      "total_voters": 2269,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 66,
+      "villages": [
+        "ধামাইজগাড়ী",
+        "ভায়া",
+        "শালমারা",
+        "শ্রীকোল",
+        "সোনাপাতিল"
+      ]
+    },
+    {
+      "serial_no": "25",
+      "name": "বাঁশবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়, মুশী বাঁশবাড়ীয়া।",
+      "center_number": "৬",
+      "male_voters": 1506,
+      "female_voters": 1430,
+      "hijra_voters": 0,
+      "total_voters": 2936,
+      "remarks": "পুরুষ ও মহিলা কেন্ড",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 66,
+      "villages": [
+        "তুলাপাড়া",
+        "বনকুড়ি",
+        "মুশী বাঁশবাড়ীয়া",
+        "সোদনী"
+      ]
+    },
+    {
+      "serial_no": "26",
+      "name": "কুমগ্রাম সরকারী প্রাথমিক বিদ্যালয়, কুমগ্রাম।",
+      "center_number": "৭ (অস্থায়ী-১)",
+      "male_voters": 3450,
+      "female_voters": 3432,
+      "hijra_voters": 0,
+      "total_voters": 6882,
+      "remarks": "পুরুষ ও মহিলা কেন্ড",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 66,
+      "villages": [
+        "কয়াখাস",
+        "কুমগ্রাম",
+        "চাতরা",
+        "বাকুল্পা",
+        "রাতাল",
+        "শালিখাপাড়া",
+        "ছাতুয়া",
+        "কaptর মোট="
+      ]
+    },
+    {
+      "serial_no": "27",
+      "name": "আগতিরাইল সরকারী প্রাথমিক বিদ্যালয়, আগতিরাইল ।",
+      "center_number": "৪",
+      "male_voters": 2116,
+      "female_voters": 1038,
+      "hijra_voters": 2116,
+      "total_voters": 2116,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 70,
+      "villages": [
+        "আগতিরাইল",
+        "পশ্চিম মাগুড়া",
+        "পাঁচ তিরাইল",
+        "পূর্ব মাগুড়া",
+        "কaptর মোট="
+      ]
+    },
+    {
+      "serial_no": "28",
+      "name": "সাতপুকুরিয়া সরকারী প্রাথমিক বিদ্যালয়, সাতপুকুরিয়া ।",
+      "center_number": "৫",
+      "male_voters": 1239,
+      "female_voters": 1227,
+      "hijra_voters": 0,
+      "total_voters": 2466,
+      "remarks": "১২২০",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 70,
+      "villages": [
+        "ইদ্রাশন",
+        "সাতপুকুরিয়া"
+      ]
+    },
+    {
+      "serial_no": "29",
+      "name": "হিজলী সরকারী প্রাথমিক বিদ্যালয়, হিজলী ।",
+      "center_number": "৪",
+      "male_voters": 1031,
+      "female_voters": 996,
+      "hijra_voters": 0,
+      "total_voters": 2027,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 70,
+      "villages": [
+        "তাজপুর",
+        "হিজলী"
+      ]
+    },
+    {
+      "serial_no": "30",
+      "name": "মদিনাতুল উলুম হাফিজিয়া ইসলামিয়া মাদ্রাসা, মহেফন্দপুর।",
+      "center_number": "৪",
+      "male_voters": 686,
+      "female_voters": 666,
+      "hijra_voters": 0,
+      "total_voters": 1352,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 70,
+      "villages": [
+        "মহেশন্দপুর"
+      ]
+    },
+    {
+      "serial_no": "31",
+      "name": "পারসাধ্যম সরকারী প্রাথমিক বিদ্যালয়, পারসাধ্যম ।",
+      "center_number": "৪",
+      "male_voters": 955,
+      "female_voters": 0,
+      "hijra_voters": 1984,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 74,
+      "villages": [
+        "চকরামপুর",
+        "জগতপুর",
+        "পারসাধ্যম",
+        "রামকৃষ্ণপুর"
+      ]
+    },
+    {
+      "serial_no": "32",
+      "name": "পুড়ুৱী আলিম মাদ্রাসা, কলম।",
+      "center_number": "৭",
+      "male_voters": 1524,
+      "female_voters": 0,
+      "hijra_voters": 3070,
+      "total_voters": 0,
+      "remarks": "১৬৩৩",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 74,
+      "villages": [
+        "নজরপুর",
+        "পুড়ুৱী"
+      ]
+    },
+    {
+      "serial_no": "33",
+      "name": "কলম উচ্চ বিদ্যালয়, কলম ।",
+      "center_number": "৬",
+      "male_voters": 1397,
+      "female_voters": 1395,
+      "hijra_voters": 0,
+      "total_voters": 2792,
+      "remarks": "১৫৬",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 74,
+      "villages": [
+        "কাশিয়াবাড়ী",
+        "নগরপাড়া",
+        "শান্তনগর",
+        "সূর্থপুর",
+        "হাট কদমতলী"
+      ]
+    },
+    {
+      "serial_no": "34",
+      "name": "কলমগোলা সরকারী প্রাথমিক বিদ্যালয়, কুমারপাড়া ।",
+      "center_number": "৭ (অস্থায়ী-১)",
+      "male_voters": 1711,
+      "female_voters": 1597,
+      "hijra_voters": 0,
+      "total_voters": 3308,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 78,
+      "villages": [
+        "কুমারপাড়া",
+        "চাঁদপুর",
+        "বলিয়াবাড়ী",
+        "লক্ষীপুর"
+      ]
+    },
+    {
+      "serial_no": "35",
+      "name": "নুরপুর উচ্চ বিদ্যালয়, নুরপুর ।",
+      "center_number": "৬",
+      "male_voters": 1423,
+      "female_voters": 1360,
+      "hijra_voters": 1,
+      "total_voters": 2784,
+      "remarks": "পুরুষ ও মহিলা ও হিজড়া কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 78,
+      "villages": [
+        "কৃষ্ণপুর",
+        "নুরপুর",
+        "পারকৃষ্ণপুর",
+        "বিজয়নগর"
+      ]
+    },
+    {
+      "serial_no": "36",
+      "name": "কলম ভিত্তী কেলজ, মিজাপুর ।",
+      "center_number": "৬",
+      "male_voters": 1324,
+      "female_voters": 1326,
+      "hijra_voters": 0,
+      "total_voters": 2650,
+      "remarks": "পুরুষ ও মহিলা কেন্দর",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 78,
+      "villages": [
+        "বলিদাখাটি",
+        "মিজাপুর",
+        "হরিণা"
+      ]
+    },
+    {
+      "serial_no": "37",
+      "name": "নাহিয়ারকান্দি সরকারী প্রাথমিক বিদ্যালয়, নাহিয়ারকান্দি।",
+      "center_number": "৬ (অস্থায়ী-১)",
+      "male_voters": 1394,
+      "female_voters": 1362,
+      "hijra_voters": 0,
+      "total_voters": 2756,
+      "remarks": "পুরুষ ও মহিলা কেন্দর",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 78,
+      "villages": [
+        "দেবত্তর",
+        "নাহিয়ারকান্দি"
+      ]
+    },
+    {
+      "serial_no": "43",
+      "name": "চক কালিকাপুর করিগারি স্কুল এন্ড কেলজ, চককালিকাপুর।",
+      "center_number": "৪",
+      "male_voters": 948,
+      "female_voters": 927,
+      "hijra_voters": 0,
+      "total_voters": 1875,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 82,
+      "villages": [
+        "চক কালিকাপুর",
+        "চক বলরামপুর",
+        "চক লংকা",
+        "ছোট কালিকাপুর",
+        "রাণীনগর",
+        "সামারকোল"
+      ]
+    },
+    {
+      "serial_no": "44",
+      "name": "মহিমারী সরকারী প্রাথমিক বিদ্যালয়, মহিমারী ।",
+      "center_number": "৮ (অস্থায়ী-১)",
+      "male_voters": 3556,
+      "female_voters": 3554,
+      "hijra_voters": 0,
+      "total_voters": 7110,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 82,
+      "villages": [
+        "মহিমারী",
+        "কপের মোট ="
+      ]
+    },
+    {
+      "serial_no": "45",
+      "name": "গুটিয়া সরকারী প্রাথমিক বিদ্যালয়, গুটিয়া ।",
+      "center_number": "৭ (অস্থায়ী-১)",
+      "male_voters": 1593,
+      "female_voters": 1570,
+      "hijra_voters": 0,
+      "total_voters": 3163,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 82,
+      "villages": [
+        "গুটিয়া",
+        "গুটিয়া মহিমারী"
+      ]
+    },
+    {
+      "serial_no": "46",
+      "name": "একান্দিয়া সরকারী প্রাথমিক বিদ্যালয়, বিলদহর ।",
+      "center_number": "৮ (অস্থায়ী-১)",
+      "male_voters": 1801,
+      "female_voters": 1770,
+      "hijra_voters": 0,
+      "total_voters": 3571,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 82,
+      "villages": [
+        "দড়ি মহিমারী",
+        "বিলদহর"
+      ]
+    },
+    {
+      "serial_no": "47",
+      "name": "আনান্দনগর সরকারী প্রাথমিক বিদ্যালয়, আনান্দনগর ।",
+      "center_number": "৮ (অস্থায়ী-১)",
+      "male_voters": 3452,
+      "female_voters": 3178,
+      "hijra_voters": 0,
+      "total_voters": 6630,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 86,
+      "villages": [
+        "আনান্দ নগর",
+        "কৃষ্ণনগর",
+        "কেদের মোট="
+      ]
+    },
+    {
+      "serial_no": "48",
+      "name": "হাতিয়ান্দহ উচ্চ বালিকা বিদ্যালয় ও কলেজ, হাতিয়ান্দহ । (মহিলা)",
+      "center_number": "৬",
+      "male_voters": 1629,
+      "female_voters": 0,
+      "hijra_voters": 1629,
+      "total_voters": 0,
+      "remarks": "মহিলা ভোটকেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 86,
+      "villages": [
+        "উত্তর সাজুরা",
+        "কাজিপুরা",
+        "চক প্রাণপুর",
+        "ছোট হাতিয়ান্দহ",
+        "বড় হাতিয়ান্দহ",
+        "কেদের মোট="
+      ]
+    },
+    {
+      "serial_no": "49",
+      "name": "হাতিয়ান্দহ সরকারী প্রাথমিক বিদ্যালয়, হাতিয়ান্দহ। (পুরুষ)",
+      "center_number": "৫",
+      "male_voters": 2302,
+      "female_voters": 0,
+      "hijra_voters": 2302,
+      "total_voters": 0,
+      "remarks": "পুরুষ ভোট কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 86,
+      "villages": [
+        "উত্তর সাজুরা",
+        "কাজিপুরা",
+        "চক প্রাণপুর",
+        "ছোট হাতিয়ান্দহ",
+        "বড় হাতিয়ান্দহ",
+        "কেদের মোট="
+      ]
+    },
+    {
+      "serial_no": "54",
+      "name": "নলবাতা উচ্চ বিদ্যালয়, নলবাতা ।",
+      "center_number": "৫",
+      "male_voters": 1288,
+      "female_voters": 1246,
+      "hijra_voters": 0,
+      "total_voters": 2534,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 90,
+      "villages": [
+        "গুপ্লিপাড়া",
+        "নতুনবস্তি",
+        "নলবাতা মুখাপাড়া",
+        "নলবাতা সরদারপাড়া",
+        "মরাপাতিয়া"
+      ]
+    },
+    {
+      "serial_no": "55",
+      "name": "কুশাবাড়ী সরকারী প্রাথমিক বিদ্যালয়, কুশাবাড়ী ।",
+      "center_number": "৪ (অস্থায়ী-১)",
+      "male_voters": 934,
+      "female_voters": 883,
+      "hijra_voters": 0,
+      "total_voters": 1817,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 90,
+      "villages": [
+        "কুশাবাড়ী",
+        "পাটসোর্টল"
+      ]
+    },
+    {
+      "serial_no": "56",
+      "name": "বড়সোর্টল সরকারী প্রাথমিক বিদ্যালয়, বড়সোর্টল ।",
+      "center_number": "৮ (অস্থায়ী-২)",
+      "male_voters": 1761,
+      "female_voters": 1686,
+      "hijra_voters": 0,
+      "total_voters": 3447,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 90,
+      "villages": [
+        "বড়সোর্টল",
+        "হাজীপুর"
+      ]
+    },
+    {
+      "serial_no": "57",
+      "name": "পাছলাড়ায় সরকারী প্রাথমিক বিদ্যালয়, পাছলাড়ায় ।",
+      "center_number": "৫",
+      "male_voters": 1219,
+      "female_voters": 1154,
+      "hijra_voters": 0,
+      "total_voters": 2373,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 90,
+      "villages": [
+        "আগলাড়ায়",
+        "কাজীপাড়া",
+        "চকলাড়ায়",
+        "পাছলাড়ায়",
+        "নারায়ণপুর"
+      ]
+    },
+    {
+      "serial_no": "58",
+      "name": "বারইহাটি সরকারী প্রাথমিক বিদ্যালয়, বারইহাটি।",
+      "center_number": "(অস্থায়ী -১)",
+      "male_voters": 3022,
+      "female_voters": 2934,
+      "hijra_voters": 0,
+      "total_voters": 5956,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 96,
+      "villages": [
+        "ছোট বারইহাটি",
+        "বড় বারইহাটি",
+        "বাঙ্গালপাড়া",
+        "কaptর মোট="
+      ]
+    },
+    {
+      "serial_no": "59",
+      "name": "হামিরঘোষ উচ্চ বিদ্যালয়, হামিরঘোষ ।",
+      "center_number": "৪",
+      "male_voters": 1720,
+      "female_voters": 1754,
+      "hijra_voters": 0,
+      "total_voters": 3474,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 96,
+      "villages": [
+        "ডাকমন্ডপ",
+        "হামিরঘোষ",
+        "কaptর মোট="
+      ]
+    },
+    {
+      "serial_no": "60",
+      "name": "রাকশা মোহনপুর সরকারী প্রাথমিক বিদ্যালয়, মোহনপুর",
+      "center_number": "৬ (অস্থায়ী -৩)",
+      "male_voters": 1358,
+      "female_voters": 1261,
+      "hijra_voters": 0,
+      "total_voters": 2619,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 96,
+      "villages": [
+        "উত্তর ঢাকটোর",
+        "কোয়ালীপুরুর",
+        "গোপেন্দ্র নগর",
+        "মহনপুর",
+        "রাকশা",
+        "সোনাইডাংগা"
+      ]
+    },
+    {
+      "serial_no": "61",
+      "name": "ডাঙ্গাপাড়া সরকারী প্রাথমিক বিদ্যালয়, ডাঙ্গাপাড়া।",
+      "center_number": "৫",
+      "male_voters": 1007,
+      "female_voters": 988,
+      "hijra_voters": 0,
+      "total_voters": 1995,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 100,
+      "villages": [
+        "উত্তর ডাঙ্গাপাড়া",
+        "দক্ষিণ ডাঙ্গাপাড়া",
+        "দক্ষিণ ঢাকদের",
+        "হাপানিয়া"
+      ]
+    },
+    {
+      "serial_no": "62",
+      "name": "বড়বাড়ী সরকারী প্রাথমিক বিদ্যালয়, বড়বাড়ী।",
+      "center_number": "৬",
+      "male_voters": 1309,
+      "female_voters": 1279,
+      "hijra_voters": 0,
+      "total_voters": 2588,
+      "remarks": "১০৮১",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 100,
+      "villages": [
+        "নগর মাঝগ্রাম",
+        "বড়বাড়ী",
+        "রামবাড়ি"
+      ]
+    },
+    {
+      "serial_no": "63",
+      "name": "মাঝগ্রাম সরকারী প্রাথমিক বিদ্যালয়, বামন মাঝগ্রাম।",
+      "center_number": "৮",
+      "male_voters": 1698,
+      "female_voters": 1682,
+      "hijra_voters": 1,
+      "total_voters": 3381,
+      "remarks": "১৪২৩",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 100,
+      "villages": [
+        "আতাইকুলা",
+        "চুরামনবাড়ি",
+        "বামন মাঝগ্রাম"
+      ]
+    },
+    {
+      "serial_no": "64",
+      "name": "লালের উচ্চ বিদ্যালয়, লালের।",
+      "center_number": "৪",
+      "male_voters": 1056,
+      "female_voters": 1017,
+      "hijra_voters": 0,
+      "total_voters": 2073,
+      "remarks": "২০৭৩",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 100,
+      "villages": [
+        "লালের"
+      ]
+    },
+    {
+      "serial_no": "68",
+      "name": "ভাগনগরকান্দি সরকারী প্রাথমিক বিদ্যালয়, ভাগনগরকান্দি।",
+      "center_number": "৬",
+      "male_voters": 1304,
+      "female_voters": 1294,
+      "hijra_voters": 0,
+      "total_voters": 2598,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 104,
+      "villages": [
+        "বড়নগরকান্দি",
+        "ভাগনগরকান্দি"
+      ]
+    },
+    {
+      "serial_no": "69",
+      "name": "চকপুর বিভভরট উচ্চ বিদ্যালয়, চকপুর ।",
+      "center_number": "৮",
+      "male_voters": 1700,
+      "female_voters": 1676,
+      "hijra_voters": 0,
+      "total_voters": 3376,
+      "remarks": "পুরুষ ও মহিলা কেন্দ",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 104,
+      "villages": [
+        "কৃষ্ণপুর",
+        "গোয়াল বাখান",
+        "চকপুর",
+        "তেমুখ",
+        "বিলভরট"
+      ]
+    },
+    {
+      "serial_no": "70",
+      "name": "তেলিপ্রাম সরকারী প্রাথমিক বিদ্যালয়, তেলিপ্রাম ।",
+      "center_number": "৬",
+      "male_voters": 1255,
+      "female_voters": 1258,
+      "hijra_voters": 0,
+      "total_voters": 2513,
+      "remarks": "পুরুষ ও মহিলা কেন্দ",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 104,
+      "villages": [
+        "তেলিপ্রাম",
+        "বক্তারপুর",
+        "বামনহাট",
+        "সিদ্ধাখালী"
+      ]
+    },
+    {
+      "serial_no": "71",
+      "name": "শেরকোল সমজান আলী উচ্চ বিদ্যালয়, শেরকোল ।",
+      "center_number": "৯",
+      "male_voters": 2017,
+      "female_voters": 2094,
+      "hijra_voters": 0,
+      "total_voters": 4111,
+      "remarks": "পুরুষ ও মহিলা কেন্দ",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 104,
+      "villages": [
+        "পাছপাড়া",
+        "মাঝপাড়া",
+        "রানী নগর",
+        "শেরকোল",
+        "শ্রীরামপুর"
+      ]
+    },
+    {
+      "serial_no": "72",
+      "name": "আগপাড়া সেরকোল সরকারী প্রাথমিক বিদ্যালয়, আগপাড়া।",
+      "center_number": "৭ (অস্থায়ী-১)",
+      "male_voters": 1560,
+      "female_voters": 1484,
+      "hijra_voters": 0,
+      "total_voters": 3044,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 108,
+      "villages": [
+        "আগপাড়া সেরকোল"
+      ]
+    },
+    {
+      "serial_no": "73",
+      "name": "সেরকোল দারুল উলুম মাদ্রাসা, হারেরাড়ীয়া।",
+      "center_number": "৭",
+      "male_voters": 1595,
+      "female_voters": 1609,
+      "hijra_voters": 0,
+      "total_voters": 3204,
+      "remarks": "পুরুষ ও মহিলা কেনু",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 108,
+      "villages": [
+        "কংশপুর",
+        "ধুলাউড়ি",
+        "হারেরাড়ীয়া"
+      ]
+    },
+    {
+      "serial_no": "74",
+      "name": "পুরিমারী সরকারী প্রাথমিক বিদ্যালয়, পুঠিমারী।",
+      "center_number": "৫ (অস্থায়ী-১)",
+      "male_voters": 1358,
+      "female_voters": 1329,
+      "hijra_voters": 0,
+      "total_voters": 2687,
+      "remarks": "পুরুষ ও মহিলা কেনু",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 108,
+      "villages": [
+        "নীলচরা",
+        "পুষ্টিমারী"
+      ]
+    },
+    {
+      "serial_no": "75",
+      "name": "সোনাপুর পমগ্রাম সরকারী প্রাথমিক বিদ্যালয়, সোনাপুর।",
+      "center_number": "৬ (অস্থায়ী-৩)",
+      "male_voters": 1435,
+      "female_voters": 1416,
+      "hijra_voters": 0,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেনু",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 108,
+      "villages": [
+        "খালেগার বাড়ীয়া",
+        "পমগ্রাম",
+        "পীচবাড়ীয়া",
+        "সোনাপুর"
+      ]
+    },
+    {
+      "serial_no": "76",
+      "name": "তেমুখ নওগাঁ সরকারী প্রাথমিক বিদ্যালয়, তেমুখ ।",
+      "center_number": "৬",
+      "male_voters": 1496,
+      "female_voters": 1387,
+      "hijra_voters": 0,
+      "total_voters": 2883,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 112,
+      "villages": [
+        "নওগাঁ",
+        "খরসতী",
+        "চক নওগাঁ"
+      ]
+    },
+    {
+      "serial_no": "77",
+      "name": "জয়নগর তাজপুর সরকারী প্রাথমিক বিদ্যালয়, তাজপুর ।",
+      "center_number": "৬",
+      "male_voters": 1423,
+      "female_voters": 1395,
+      "hijra_voters": 0,
+      "total_voters": 2818,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 112,
+      "villages": [
+        "কেশবপুর",
+        "জয়নগর",
+        "নিলামপুর",
+        "কমরপুর",
+        "তাজপুর",
+        "ভাদুরীপাড়া"
+      ]
+    },
+    {
+      "serial_no": "78",
+      "name": "তিন ভিটা হিসাতপুর সরকারী প্রাথমিক বিদ্যালয়, হিসাতপুর ।",
+      "center_number": "৪",
+      "male_voters": 974,
+      "female_voters": 0,
+      "hijra_voters": 1966,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 116,
+      "villages": [
+        "কাদিরগাছা",
+        "চক্টেরমব",
+        "চকহিয়াতপুর",
+        "ছোট হিসাতপুর",
+        "তিনিভিটা",
+        "মাহমুদপুর",
+        "বজরাহার",
+        "বড় বজরাহার"
+      ]
+    },
+    {
+      "serial_no": "79",
+      "name": "বড় হরিপুর সরকারী প্রাথমিক বিদ্যালয়, বড় হরিপুর ।",
+      "center_number": "৫",
+      "male_voters": 1203,
+      "female_voters": 0,
+      "hijra_voters": 2366,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 116,
+      "villages": [
+        "পারচক",
+        "বড় হরিপুর",
+        "রাখালগাছা"
+      ]
+    },
+    {
+      "serial_no": "80",
+      "name": "কয়রাবাড়ী সরকারী প্রাথমিক বিদ্যালয়, কয়রাবাড়ী ।",
+      "center_number": "৪",
+      "male_voters": 701,
+      "female_voters": 0,
+      "hijra_voters": 1408,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 116,
+      "villages": [
+        "শহরবাড়ী",
+        "সরাবাড়ী",
+        "কয়রাবাড়ী"
+      ]
+    },
+    {
+      "serial_no": "81",
+      "name": "হলহলিয়া উচ্চ বিদ্যালয়, হলহলিয়া ।",
+      "center_number": "৬",
+      "male_voters": 1424,
+      "female_voters": 1461,
+      "hijra_voters": 0,
+      "total_voters": 2885,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 120,
+      "villages": [
+        "পশ্চিম বড়বড়িয়া",
+        "শ্রী বজ্রভপুর",
+        "সারদানগর",
+        "হলহলিয়া",
+        "পাড়েরা"
+      ]
+    },
+    {
+      "serial_no": "82",
+      "name": "স্থাপনদিহী উচ্চ বিদ্যালয়, স্থাপনদিহী ।",
+      "center_number": "৫",
+      "male_voters": 1161,
+      "female_voters": 1210,
+      "hijra_voters": 0,
+      "total_voters": 2371,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 120,
+      "villages": [
+        "মুক্তিগড়",
+        "গোয়ালবাড়িয়া",
+        "স্থাপনদিহী"
+      ]
+    },
+    {
+      "serial_no": "83",
+      "name": "ছোট চৌগ্রাম সরকারী প্রাথমিক বিদ্যালয়, ছোট চৌগ্রাম।",
+      "center_number": "৫",
+      "male_voters": 1157,
+      "female_voters": 1178,
+      "hijra_voters": 0,
+      "total_voters": 2335,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 120,
+      "villages": [
+        "ক্ষুদ চৌগ্রাম"
+      ]
+    },
+    {
+      "serial_no": "84",
+      "name": "নিমাকদমা সরকারী প্রাথমিক বিদ্যালয়, নিমাকদমা ।",
+      "center_number": "৪",
+      "male_voters": 732,
+      "female_voters": 721,
+      "hijra_voters": 0,
+      "total_voters": 1453,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 120,
+      "villages": [
+        "নিমাকদমা",
+        "মাবিপাড়া শিবপুর"
+      ]
+    },
+    {
+      "serial_no": "85",
+      "name": "চৌগ্রাম উচ্চ বিদ্যালয় ও কলেজ, চৌগ্রাম ।",
+      "center_number": "৭",
+      "male_voters": 1584,
+      "female_voters": 1634,
+      "hijra_voters": 0,
+      "total_voters": 3218,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 124,
+      "villages": [
+        "চৌগ্রাম",
+        "মাঝিয়াপাড়া"
+      ]
+    },
+    {
+      "serial_no": "86",
+      "name": "চৌগ্রাম সরকারী প্রাথমিক বিদ্যালয়, চৌগ্রাম।",
+      "center_number": "৫",
+      "male_voters": 1125,
+      "female_voters": 0,
+      "hijra_voters": 2205,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 124,
+      "villages": [
+        "কাজলাহার আগ্রায়ণ",
+        "তেরবাড়ীয়া",
+        "পারুহার",
+        "ফটিকাহার",
+        "বেলঘরিয়া"
+      ]
+    },
+    {
+      "serial_no": "87",
+      "name": "ক্ষিপ্তবড়িয়া সরকারী প্রাথমিক বিদ্যালয়, ক্ষিপ্তবাড়িয়া।",
+      "center_number": "৪",
+      "male_voters": 1059,
+      "female_voters": 0,
+      "hijra_voters": 2083,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 124,
+      "villages": [
+        "ক্ষিপ্তবড়িয়া",
+        "বড়িয়া"
+      ]
+    },
+    {
+      "serial_no": "88",
+      "name": "কান্তনগর সরকারী প্রাথমিক বিদ্যালয়, কান্তনগর ।",
+      "center_number": "৪",
+      "male_voters": 654,
+      "female_voters": 0,
+      "hijra_voters": 1330,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 124,
+      "villages": [
+        "কান্তনগর",
+        "কেদিদ্দী বড়িয়া",
+        "ডোহাবাড়ী",
+        "পমবড়িয়া"
+      ]
+    },
+    {
+      "serial_no": "89",
+      "name": "রামনগর সরকারী প্রাথমিক বিদ্যালয়, রামনগর।",
+      "center_number": "৩",
+      "male_voters": 572,
+      "female_voters": 541,
+      "hijra_voters": 0,
+      "total_voters": 1113,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 128,
+      "villages": [
+        "ধানুড়িয়া",
+        "রামনগর"
+      ]
+    },
+    {
+      "serial_no": "90",
+      "name": "খন্দকার বড়বড়িয়া সরকারী প্রাথমিক বিদ্যালয়, খন্দকার বড়বড়িয়া।",
+      "center_number": "৪",
+      "male_voters": 666,
+      "female_voters": 666,
+      "hijra_voters": 0,
+      "total_voters": 1332,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 128,
+      "villages": [
+        "খন্দকার বড়বড়িয়া"
+      ]
+    },
+    {
+      "serial_no": "91",
+      "name": "ছাতারদিহী কুমুদ কামিনী সরকারী প্রাথমিক বিদ্যালয়, ছাতারদিহী।",
+      "center_number": "৫",
+      "male_voters": 1247,
+      "female_voters": 1226,
+      "hijra_voters": 0,
+      "total_voters": 2473,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 128,
+      "villages": [
+        "ছাতারদিহী"
+      ]
+    },
+    {
+      "serial_no": "92",
+      "name": "কালিগঞ্জ বনমালী দ্বি-মুখী ইন্সটিটিউশন, কালিগঞ্জ।",
+      "center_number": "৫",
+      "male_voters": 1059,
+      "female_voters": 1034,
+      "hijra_voters": 0,
+      "total_voters": 2093,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 128,
+      "villages": [
+        "আনান্দ নগর"
+      ]
+    },
+    {
+      "serial_no": "93",
+      "name": "করচ মািড়য়া সরকারী প্রাথমিক বিদ্যালয়, করচ মািড়য়া।",
+      "center_number": "৯ (অস্থায়ী -২)",
+      "male_voters": 2162,
+      "female_voters": 2087,
+      "hijra_voters": 0,
+      "total_voters": 4249,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 132,
+      "villages": [
+        "করচ মািড়য়া",
+        "ছাতার বািড়য়া",
+        "পানিয়া",
+        "পালশা"
+      ]
+    },
+    {
+      "serial_no": "94",
+      "name": "পাওটা এমদাদুল উলুম মাদ্রাসা, পাওটা।",
+      "center_number": "৫",
+      "male_voters": 1264,
+      "female_voters": 1244,
+      "hijra_voters": 0,
+      "total_voters": 2508,
+      "remarks": "পুরুষ ও মহিলা কেন্ড",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 132,
+      "villages": [
+        "নিশ্চড়া",
+        "পশ্চিম বাঁশবািড়য়া",
+        "পাওটা",
+        "সৈয়দপুর"
+      ]
+    },
+    {
+      "serial_no": "95",
+      "name": "পাকিশা সরকারী প্রাথমিক বিদ্যালয়, পাকিশা।",
+      "center_number": "৪",
+      "male_voters": 1096,
+      "female_voters": 1007,
+      "hijra_voters": 0,
+      "total_voters": 2133,
+      "remarks": "পুরুষ ও মহিলা কেন্ড",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 132,
+      "villages": [
+        "একলাসপুর",
+        "বিনা",
+        "পাকিশা"
+      ]
+    },
+    {
+      "serial_no": "96",
+      "name": "কুমিড়া সরকারী প্রাথমিক বিদ্যালয়, কুমিড়া।",
+      "center_number": "৪",
+      "male_voters": 1000,
+      "female_voters": 1003,
+      "hijra_voters": 0,
+      "total_voters": 2003,
+      "remarks": "পুরুষ ও মহিলা কেন্ড",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 132,
+      "villages": [
+        "উদ্দিশা",
+        "কুমিড়া",
+        "খোর্দকয়া",
+        "সরমুজা"
+      ]
+    },
+    {
+      "serial_no": "97",
+      "name": "ভুলবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়, ভুলবাড়ীয়া।",
+      "center_number": "৪",
+      "male_voters": 762,
+      "female_voters": 0,
+      "hijra_voters": 1564,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 136,
+      "villages": [
+        "ভুলবাড়ীয়া"
+      ]
+    },
+    {
+      "serial_no": "98",
+      "name": "হোসেনপুর সরকারী প্রাথমিক বিদ্যালয়, হোসেনপুর।",
+      "center_number": "৪",
+      "male_voters": 91,
+      "female_voters": 0,
+      "hijra_voters": 193,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 136,
+      "villages": [
+        "আফতাব নগর"
+      ]
+    },
+    {
+      "serial_no": "99",
+      "name": "মালকুর সরকারী প্রাথমিক বিদ্যালয়, মালকুর।",
+      "center_number": "৬ (অস্থায়ী -৩)",
+      "male_voters": 398,
+      "female_voters": 0,
+      "hijra_voters": 838,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 136,
+      "villages": [
+        "খেলকুড়"
+      ]
+    },
+    {
+      "serial_no": "100",
+      "name": "বাদেপাড়া উচ্চ বিদ্যালয়, বাদেপাড়া।",
+      "center_number": "৭",
+      "male_voters": 218,
+      "female_voters": 0,
+      "hijra_voters": 442,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 136,
+      "villages": [
+        "একদিলতলা"
+      ]
+    },
+    {
+      "serial_no": "101",
+      "name": "বুকয়া সরকারী প্রাথমিক বিদ্যালয়, বুকয়া।",
+      "center_number": "৪",
+      "male_voters": 991,
+      "female_voters": 939,
+      "hijra_voters": 0,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 140,
+      "villages": [
+        "বিক্ষা বাড়িয়া",
+        "তেহইর",
+        "বনকুড়ি",
+        "বুকয়া"
+      ]
+    },
+    {
+      "serial_no": "102",
+      "name": "টোপুকুরিয়া সরকারী প্রাথমিক বিদ্যালয়, টোপুকুরিয়া।",
+      "center_number": "৭ (অস্থায়ী -২)",
+      "male_voters": 1665,
+      "female_voters": 1604,
+      "hijra_voters": 0,
+      "total_voters": 3269,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 140,
+      "villages": [
+        "টোপুকুরিয়া",
+        "খলকুড়ি",
+        "খাঠল",
+        "বাঁকাইকুড়ি"
+      ]
+    },
+    {
+      "serial_no": "103",
+      "name": "সোয়াইড় সরকারী প্রাথমিক বিদ্যালয়, সোয়াইড়।",
+      "center_number": "৬",
+      "male_voters": 1430,
+      "female_voters": 1340,
+      "hijra_voters": 0,
+      "total_voters": 2770,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 140,
+      "villages": [
+        "বিদ্যালয়িয়া",
+        "বেগুনবাড়িয়া",
+        "সোয়াইড়"
+      ]
+    },
+    {
+      "serial_no": "104",
+      "name": "কেফাম সরকারী প্রাথমিক বিদ্যালয়, কেফাম।",
+      "center_number": "৭ (অস্থায়ী -২)",
+      "male_voters": 1575,
+      "female_voters": 1535,
+      "hijra_voters": 0,
+      "total_voters": 3110,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 140,
+      "villages": [
+        "আলোয়িয়া",
+        "কেফাম"
+      ]
+    },
+    {
+      "serial_no": "109",
+      "name": "সিংড়া দমদমা পাইলট স্কুল এন্ড কেলজ, দমদমা।",
+      "center_number": "৫",
+      "male_voters": 1141,
+      "female_voters": 0,
+      "hijra_voters": 2207,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 144,
+      "villages": [
+        "কীটাপুকুরিয়া",
+        "চক গোপাল",
+        "পূর্ব মুশিদা"
+      ]
+    },
+    {
+      "serial_no": "110",
+      "name": "উত্তর দমদমা সরকারী প্রাথমিক বিদ্যালয়, উত্তর দমদমা ।",
+      "center_number": "৫",
+      "male_voters": 1289,
+      "female_voters": 0,
+      "hijra_voters": 2521,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 144,
+      "villages": [
+        "উত্তর দমদমা",
+        "ছোট হীসপুরিয়া",
+        "বড় হীসপুরিয়া"
+      ]
+    },
+    {
+      "serial_no": "111",
+      "name": "দমদমা সরকারী প্রাথমিক বিদ্যালয়, দমদমা ।",
+      "center_number": "৫",
+      "male_voters": 1265,
+      "female_voters": 0,
+      "hijra_voters": 2453,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 144,
+      "villages": [
+        "ফলিয়া",
+        "দক্ষিণ দমদমা",
+        "হাতীগাড়া"
+      ]
+    },
+    {
+      "serial_no": "112",
+      "name": "আলহাজ আঃ রহিম উচ্চ বিদ্যালয়, সিংড়া",
+      "center_number": "৪",
+      "male_voters": 1081,
+      "female_voters": 0,
+      "hijra_voters": 2066,
+      "total_voters": 0,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 144,
+      "villages": [
+        "বড় মাগুড়ী",
+        "বস্তা",
+        "বালুয়া বাসুয়া",
+        "মাদারীপুর"
+      ]
+    },
+    {
+      "serial_no": "113",
+      "name": "সিংড়া দমদমা সরকারী বালিকা উচ্চ বিদ্যালয়, সিংড়া।",
+      "center_number": "৭",
+      "male_voters": 1351,
+      "female_voters": 1450,
+      "hijra_voters": 0,
+      "total_voters": 2801,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 148,
+      "villages": [
+        "চাঁদপুর",
+        "গাইনপাড়া",
+        "পাড়া জয়নগর"
+      ]
+    },
+    {
+      "serial_no": "114",
+      "name": "সিংড়া চলনবিল মহিলা কলেজ, সিংড়া।",
+      "center_number": "৬",
+      "male_voters": 1329,
+      "female_voters": 1407,
+      "hijra_voters": 0,
+      "total_voters": 2736,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 148,
+      "villages": [
+        "আউকুড়ি",
+        "পাটেকাল",
+        "পারসিংড়া",
+        "বালুভরা"
+      ]
+    },
+    {
+      "serial_no": "115",
+      "name": "নিংগইন উচ্চ বিদ্যালয়, নিংগইন।",
+      "center_number": "৬",
+      "male_voters": 2502,
+      "female_voters": 2550,
+      "hijra_voters": 0,
+      "total_voters": 5052,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 148,
+      "villages": [
+        "নিংগইন"
+      ]
+    },
+    {
+      "serial_no": "116",
+      "name": "গোল-ই-আফেরাজ সরকারী কলেজ, সিংড়া।",
+      "center_number": "৮",
+      "male_voters": 3754,
+      "female_voters": 3996,
+      "hijra_voters": 0,
+      "total_voters": 7750,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 148,
+      "villages": [
+        "সিংড়া"
+      ]
+    },
+    {
+      "serial_no": "117",
+      "name": "শোলাকুড়া ইসলামিয়া মাদ্রাসা, শোলাকুড়া।",
+      "center_number": "৮",
+      "male_voters": 1929,
+      "female_voters": 2058,
+      "hijra_voters": 0,
+      "total_voters": 3987,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 152,
+      "villages": [
+        "চক সিংড়া",
+        "শোলাকুড়া",
+        "সোহাগবাড়ী",
+        "কতুয়াবাড়ী",
+        "মহেশচন্দ্রপুর"
+      ]
+    },
+    {
+      "serial_no": "118",
+      "name": "কতুয়াবাড়ী সরকারী প্রাথমিক বিদ্যালয়, কতুয়াবাড়ী।",
+      "center_number": "৮ (অস্থায়ী -২)",
+      "male_voters": 127,
+      "female_voters": 1724,
+      "hijra_voters": 0,
+      "total_voters": 3451,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "ইটালী",
+      "line_number": 152,
+      "villages": [
+        "কতুয়াবাড়ী",
+        "চর পাটকেরাল",
+        "হাজীপুর",
+        "নিংগইন নতুনপাড়া",
+        "শেলমারী",
+        "নিংগইন",
+        "পাটকেরাল নতুনপাড়া",
+        "বালুভরা নতুনপাড়া",
+        "উপজেলা /থানার সংখ্যা ও নাম"
+      ]
+    }
+  ],
+  "total_centers": 92,
+  "sanity_check": {
+    "valid": false,
+    "issues": [
+      "Center 1 (সুকাশ সরকারী প্রাথমিক বিদ্যালয়, সুকাশ...): Voter count mismatch. M(1197) + F(0) + H(2378) = 3575, but total shows 0 [Line 44]",
+      "Center 12 (বেভাবাড়ী সরকারী প্রাথমিক বিদ্যালয়, বেভাবাড়ী ।...): Voter count mismatch. M(842) + F(0) + H(1708) = 2550, but total shows 0 [Line 52]",
+      "Center 13 (বড় আদিমপুর সরকারী প্রাথমিক বিদ্যালয়, বড় আদিমপুর...): Voter count mismatch. M(1314) + F(0) + H(2681) = 3995, but total shows 0 [Line 52]",
+      "Center 14 (বিয়াশ দ্বি-মুখী উচ্চ বিদ্যালয়, বিয়াশ।...): Voter count mismatch. M(2126) + F(0) + H(4297) = 6423, but total shows 0 [Line 52]",
+      "Center 27 (আগতিরাইল সরকারী প্রাথমিক বিদ্যালয়, আগতিরাইল ।...): Voter count mismatch. M(2116) + F(1038) + H(2116) = 5270, but total shows 2116 [Line 70]",
+      "Center 31 (পারসাধ্যম সরকারী প্রাথমিক বিদ্যালয়, পারসাধ্যম ।...): Voter count mismatch. M(955) + F(0) + H(1984) = 2939, but total shows 0 [Line 74]",
+      "Center 32 (পুড়ুৱী আলিম মাদ্রাসা, কলম।...): Voter count mismatch. M(1524) + F(0) + H(3070) = 4594, but total shows 0 [Line 74]",
+      "Center 48 (হাতিয়ান্দহ উচ্চ বালিকা বিদ্যালয় ও কলেজ, হাতিয়ান...): Voter count mismatch. M(1629) + F(0) + H(1629) = 3258, but total shows 0 [Line 86]",
+      "Center 49 (হাতিয়ান্দহ সরকারী প্রাথমিক বিদ্যালয়, হাতিয়ান্দহ...): Voter count mismatch. M(2302) + F(0) + H(2302) = 4604, but total shows 0 [Line 86]",
+      "Center 75 (সোনাপুর পমগ্রাম সরকারী প্রাথমিক বিদ্যালয়, সোনাপুর...): Voter count mismatch. M(1435) + F(1416) + H(0) = 2851, but total shows 0 [Line 108]",
+      "Center 78 (তিন ভিটা হিসাতপুর সরকারী প্রাথমিক বিদ্যালয়, হিসাত...): Voter count mismatch. M(974) + F(0) + H(1966) = 2940, but total shows 0 [Line 116]",
+      "Center 79 (বড় হরিপুর সরকারী প্রাথমিক বিদ্যালয়, বড় হরিপুর ।...): Voter count mismatch. M(1203) + F(0) + H(2366) = 3569, but total shows 0 [Line 116]",
+      "Center 80 (কয়রাবাড়ী সরকারী প্রাথমিক বিদ্যালয়, কয়রাবাড়ী ।...): Voter count mismatch. M(701) + F(0) + H(1408) = 2109, but total shows 0 [Line 116]",
+      "Center 86 (চৌগ্রাম সরকারী প্রাথমিক বিদ্যালয়, চৌগ্রাম।...): Voter count mismatch. M(1125) + F(0) + H(2205) = 3330, but total shows 0 [Line 124]",
+      "Center 87 (ক্ষিপ্তবড়িয়া সরকারী প্রাথমিক বিদ্যালয়, ক্ষিপ্তব...): Voter count mismatch. M(1059) + F(0) + H(2083) = 3142, but total shows 0 [Line 124]",
+      "Center 88 (কান্তনগর সরকারী প্রাথমিক বিদ্যালয়, কান্তনগর ।...): Voter count mismatch. M(654) + F(0) + H(1330) = 1984, but total shows 0 [Line 124]",
+      "Center 95 (পাকিশা সরকারী প্রাথমিক বিদ্যালয়, পাকিশা।...): Voter count mismatch. M(1096) + F(1007) + H(0) = 2103, but total shows 2133 [Line 132]",
+      "Center 97 (ভুলবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়, ভুলবাড়ীয়া...): Voter count mismatch. M(762) + F(0) + H(1564) = 2326, but total shows 0 [Line 136]",
+      "Center 98 (হোসেনপুর সরকারী প্রাথমিক বিদ্যালয়, হোসেনপুর।...): Voter count mismatch. M(91) + F(0) + H(193) = 284, but total shows 0 [Line 136]",
+      "Center 99 (মালকুর সরকারী প্রাথমিক বিদ্যালয়, মালকুর।...): Voter count mismatch. M(398) + F(0) + H(838) = 1236, but total shows 0 [Line 136]",
+      "Center 100 (বাদেপাড়া উচ্চ বিদ্যালয়, বাদেপাড়া।...): Voter count mismatch. M(218) + F(0) + H(442) = 660, but total shows 0 [Line 136]",
+      "Center 101 (বুকয়া সরকারী প্রাথমিক বিদ্যালয়, বুকয়া।...): Voter count mismatch. M(991) + F(939) + H(0) = 1930, but total shows 0 [Line 140]",
+      "Center 109 (সিংড়া দমদমা পাইলট স্কুল এন্ড কেলজ, দমদমা।...): Voter count mismatch. M(1141) + F(0) + H(2207) = 3348, but total shows 0 [Line 144]",
+      "Center 110 (উত্তর দমদমা সরকারী প্রাথমিক বিদ্যালয়, উত্তর দমদমা...): Voter count mismatch. M(1289) + F(0) + H(2521) = 3810, but total shows 0 [Line 144]",
+      "Center 111 (দমদমা সরকারী প্রাথমিক বিদ্যালয়, দমদমা ।...): Voter count mismatch. M(1265) + F(0) + H(2453) = 3718, but total shows 0 [Line 144]",
+      "Center 112 (আলহাজ আঃ রহিম উচ্চ বিদ্যালয়, সিংড়া...): Voter count mismatch. M(1081) + F(0) + H(2066) = 3147, but total shows 0 [Line 144]",
+      "Center 118 (কতুয়াবাড়ী সরকারী প্রাথমিক বিদ্যালয়, কতুয়াবাড়ী...): Voter count mismatch. M(127) + F(1724) + H(0) = 1851, but total shows 3451 [Line 152]"
+    ],
+    "warnings": [],
+    "stats": {
+      "total_centers_checked": 92,
+      "voter_count_mismatches": 27,
+      "missing_fields": 0,
+      "invalid_serial_numbers": 0,
+      "unreasonable_voter_counts": 0
+    },
+    "summary": {
+      "total_centers": 92,
+      "centers_with_issues": 27,
+      "total_issues": 27,
+      "total_warnings": 0
+    }
+  }
+}
