@@ -2097,6 +2097,38 @@
       ]
     },
     {
+      "serial_no": "115",
+      "name": "নিংগইন উচ্চ বিদ্যালয়, নিংগইন।",
+      "center_number": "৬",
+      "male_voters": 1251,
+      "female_voters": 1275,
+      "hijra_voters": 0,
+      "total_voters": 2526,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "চামারী",
+      "line_number": 185,
+      "villages": [
+        "নিংগইন (পোরসভা অংশ)"        
+      ]
+    },
+    {
+      "serial_no": "116",
+      "name": "গোল-ই-আফরোজ সরকারী কলেজ, সিংড়া ।",
+      "center_number": "৮",
+      "male_voters": 1877,
+      "female_voters": 1998,
+      "hijra_voters": 0,
+      "total_voters": 3875,
+      "remarks": "পুরুষ ও মহিলা কেন্দ্র",
+      "upazila": "সিংড়া",
+      "union": "চামারী",
+      "line_number": 186,
+      "villages": [
+        "সিংড়া"
+      ]
+    },
+    {
       "serial_no": "117",
       "name": "শোলাকুড়া ইসলামমিয়া মাদ্রাসা, শোলাকুড়া ।",
       "center_number": "৮",
